@@ -1,0 +1,49 @@
+a.tooltip {
+    position: relative;
+    text-decoration: none;
+}
+
+a.tooltip::after {
+    content: attr(data-tooltip);
+    position: absolute;
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 14px;
+    white-space: nowrap;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s, visibility 0.3s;
+}
+
+a.tooltip:hover::after {
+    visibility: visible;
+    opacity: 1;
+}
+
+.artist {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.play-button {
+    width: 25px;
+    height: 25px;
+    margin-left: 10px;
+    background-color: #7197c0;
+    color: #fff;
+    border: none;
+    border-radius: 15%;
+    font-size: 20px;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    outline: none;
+}
+
+.play-button:hover {
+    background-color: #394654;
+}
