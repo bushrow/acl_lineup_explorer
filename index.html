@@ -23,6 +23,14 @@
       <h1>Austin City Limits Lineup Explorer</h1>
     </header>
     <section>
+      <div>
+        <button class="filter-button active" onclick="filterItems('all', this)">All</button>
+        <button class="filter-button" onclick="filterItems('weekend_one', this, false)">Weekend 1 Lineup</button>
+        <button class="filter-button" onclick="filterItems('weekend_two', this, false)">Weekend 2 Lineup</button>
+        <button class="filter-button" onclick="filterItems('headliner', this)">Headliners</button>
+        <button class="filter-button" onclick="filterItems('weekend_one', this, true)">Weekend 1 ONLY</button>
+        <button class="filter-button" onclick="filterItems('weekend_two', this, true)">Weekend 2 ONLY</button>
+      </div>
       <div id="lineup-content">
       </div>
     </section>

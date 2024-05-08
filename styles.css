@@ -22,11 +22,23 @@ a.tooltip:hover::after {
     opacity: 1;
 }
 
+.filter-button {
+    border: 1px #ccc solid;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.filter-button.active {
+    background-color: rgb(107, 190, 226);
+}
+
 .artist {
     border: 1px solid #ccc;
     padding: 20px;
     margin-bottom: 20px;
 }
+
+.artist .header {}
 
 .play-button {
     width: 25px;

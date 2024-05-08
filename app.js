@@ -24,10 +24,12 @@ document.addEventListener("DOMContentLoaded", function () {
         if (artist.lineup.weekend_two) {
           artistElement.classList.add('weekend_two');
         }
-        const header = document.createElement('h2');
-        header.innerHTML = `<a class="tooltip" href="${artist.spotify.url}" target="_blank" data-tooltip="${artist.lineup.artist}">${artist.spotify.name}</a>`;
-        header.tooltip
-        artistElement.appendChild(header);
+        const header = document.createElement('div');
+        header.classList.add('header')
+        const headerTitle = document.createElement('h2');
+        headerTitle.innerHTML = `<a class="tooltip" href="${artist.spotify.url}" target="_blank" data-tooltip="${artist.lineup.artist}">${artist.spotify.name}</a>`;
+        headerTitle.tooltip
+        header.appendChild(headerTitle);
 
         const detail = document.createElement('div');
         detail.innerHTML = `
@@ -35,7 +37,8 @@ document.addEventListener("DOMContentLoaded", function () {
           <p>Popularity: ${artist.spotify.popularity}</p>
           <p>Spotify Followers: ${artist.spotify.followers}</p>
         `;
-        artistElement.appendChild(detail);
+        header.appendChild(detail);
+        artistElement.appendChild(header);
 
         const tracks = document.createElement('div');
         const tracksHeader = document.createElement('h3');
@@ -82,5 +85,37 @@ function toggleAudio(audioUrl, currentButton) {
     playingAudio.play();
     currentButton.innerText = "⏸️";
     playingButton = currentButton;
+  }
+}
+
+
+function filterItems(className, button, exclusive) {
+  var buttons = document.getElementsByClassName('filter-button');
+  for (var j = 0; j < buttons.length; j++) {
+    buttons[j].classList.remove('active');
+  }
+  button.classList.add('active');
+  var artists = document.getElementsByClassName('artist');
+  for (var i = 0; i < artists.length; i++) {
+    var artist = artists[i];
+    if (className === 'all' || (artist.classList.contains(className) && !exclusive)) {
+      artist.style.display = 'block';
+    } else if (exclusive) {
+      if (className === 'weekend_one') {
+        if (artist.classList.contains('weekend_one') && !artist.classList.contains('weekend_two')) {
+          artist.style.display = 'block';
+        } else {
+          artist.style.display = 'none';
+        }
+      } else if (className === 'weekend_two') {
+        if (!artist.classList.contains('weekend_one') && artist.classList.contains('weekend_two')) {
+          artist.style.display = 'block';
+        } else {
+          artist.style.display = 'none';
+        }
+      }
+    } else {
+      artist.style.display = 'none';
+    }
   }
 }
