@@ -43,7 +43,7 @@ document.addEventListener("DOMContentLoaded", function () {
         tracks.appendChild(tracksHeader);
         const tracksList = document.createElement('ul');
         tracksList.innerHTML = artist.spotify.top_tracks.map(
-          track => `<li><a href="${track.url}" target="_blank">${track.name}</a><button class="play-button" onclick="toggleAudio('${track.preview_url}, this')">▶️</button></li>`
+          track => `<li><a href="${track.url}" target="_blank">${track.name}</a><button class="play-button" onclick="toggleAudio('${track.preview_url}', this)">▶️</button></li>`
         ).join('');
         tracks.appendChild(tracksList);
         artistElement.appendChild(tracks);
@@ -53,24 +53,34 @@ document.addEventListener("DOMContentLoaded", function () {
     .catch(error => console.error('Error fetching artists data:', error));
 });
 
-let currentAudio = null;
+let playingAudio = null;
+let playingButton = null;
 
-function toggleAudio(audioUrl, button) {
-  if (currentAudio && !currentAudio.paused) {
-    currentAudio.pause();
-    currentAudio = null;
-    button.innerText = "▶️";
+function toggleAudio(audioUrl, currentButton) {
+  if (!audioUrl || audioUrl === 'null') {
+    alert('broken link');
     return;
   }
-
-  if (!currentAudio || currentAudio.src !== audioUrl) {
-    currentAudio = new Audio(audioUrl);
-    currentAudio.addEventListener('ended', () => {
-      button.innerText = "▶️";
-      currentAudio = null;
-    });
+  if (playingAudio) {
+    if (!playingAudio.paused) {
+      playingAudio.pause();
+      playingButton.innerText = "▶️";
+    } else if (currentButton === playingButton) {
+      playingAudio.play();
+      playingButton.innerText = "⏸️"
+    }
   }
 
-  currentAudio.play();
-  button.innerText = "⏸️";
+  if (!playingAudio || playingButton !== currentButton) {
+    playingAudio = new Audio(audioUrl);
+    playingAudio.addEventListener('ended', () => {
+      playingButton.innerText = "▶️";
+      playingAudio = null;
+      playingButton = null;
+    });
+
+    playingAudio.play();
+    currentButton.innerText = "⏸️";
+    playingButton = currentButton;
+  }
 }
