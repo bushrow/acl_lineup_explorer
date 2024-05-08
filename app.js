@@ -31,8 +31,8 @@ document.addEventListener("DOMContentLoaded", function () {
         headerLink.classList.add("tooltip");
         headerLink.href = artist.spotify.url;
         headerLink.target = "_blank";
-        headerLink.setAttribute("data-tooltip", artist.lineup.artist);
-        headerLink.innerText = artist.spotify.name;
+        headerLink.setAttribute("data-tooltip", artist.spotify.name);
+        headerLink.innerText = artist.lineup.artist;
         headerTitle.appendChild(headerLink);
 
         const popularity = document.createElement('span');
