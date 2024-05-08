@@ -1,6 +1,6 @@
 const ARTIST_DATA_URLS = {
-  2023: "https://raw.githubusercontent.com/bushrow/acl_lineup_explorer/173a9c36f9bfa389912801f395db29ed5c2c9fb5/data/2023/artists.json",
-  2024: "https://raw.githubusercontent.com/bushrow/acl_lineup_explorer/173a9c36f9bfa389912801f395db29ed5c2c9fb5/data/2024/artists.json"
+  2023: "https://raw.githubusercontent.com/bushrow/acl_lineup_explorer/main/data/2023/artists.json",
+  2024: "https://raw.githubusercontent.com/bushrow/acl_lineup_explorer/main/data/2024/artists.json"
 }
 
 document.addEventListener("DOMContentLoaded", function () {
