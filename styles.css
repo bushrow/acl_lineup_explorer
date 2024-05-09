@@ -1,0 +1,116 @@
+.tooltip {
+    position: relative;
+    text-decoration: none;
+}
+
+.tooltip::after {
+    content: attr(data-tooltip);
+    position: absolute;
+    background: rgba(50, 50, 50);
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 12px;
+    white-space: nowrap;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s, visibility 0.3s;
+    z-index: 999;
+}
+
+.tooltip:hover::after {
+    visibility: visible;
+    opacity: 1;
+    z-index: 999;
+}
+
+.filter-button {
+    border: 1px #ccc solid;
+    border-radius: 5px;
+    margin: 0 6px 20px 0;
+}
+
+.filter-button.active {
+    background-color: rgb(107, 190, 226);
+}
+
+.artist {
+    border: 1px solid #ccc;
+    padding: 16px 16px;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+
+.header h2 {
+    margin: 0 0 16px;
+    display: flex;
+    align-items: center;
+}
+
+.popularity {
+    margin: 0 16px;
+    font-size: 16px;
+    padding: 8px;
+    border-radius: 50%;
+}
+
+.popularity.green {
+    background-color: lightgreen;
+}
+
+.popularity.yellow {
+    background-color: lightyellow;
+}
+
+.popularity.orange {
+    background-color: rgb(255, 202, 105);
+}
+
+.popularity.red {
+    background-color: rgb(255, 142, 142);
+}
+
+.followers {
+    font-size: 16px;
+}
+
+.genre {
+    margin: 0 8px 8px 0;
+    padding: 5px;
+    border: 1px #ccc solid;
+    border-radius: 5px;
+    display: inline-flex;
+}
+
+.tracks-header {
+    cursor: pointer;
+    user-select: none;
+}
+
+.tracks-list {
+    display: none;
+}
+
+.tracks-visible {
+    display: block;
+}
+
+.play-button {
+    width: 25px;
+    height: 25px;
+    margin-left: 10px;
+    background-color: #7197c0;
+    color: #fff;
+    border: none;
+    border-radius: 15%;
+    font-size: 20px;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    outline: none;
+}
+
+.play-button:hover {
+    background-color: #394654;
+}
