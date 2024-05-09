@@ -12,33 +12,20 @@
     <meta name="description"
       content="Web app for exploring the artists performing at Austin City Limits music festival.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="./styles.css">
+    <link rel="stylesheet" href="../src/client/styles.css">
   </head>
 
   <body>
     <!--[if lt IE 7]>
       <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
-    <header>
-      <h1>Austin City Limits Lineup Explorer</h1>
-    </header>
-    <section>
-      <div>
-        <button class="filter-button active" onclick="filterItems('all', this)">All</button>
-        <button class="filter-button" onclick="filterItems('weekend_one', this, false)">Weekend 1 Lineup</button>
-        <button class="filter-button" onclick="filterItems('weekend_two', this, false)">Weekend 2 Lineup</button>
-        <button class="filter-button" onclick="filterItems('headliner', this)">Headliners</button>
-        <button class="filter-button" onclick="filterItems('weekend_one', this, true)">Weekend 1 ONLY</button>
-        <button class="filter-button" onclick="filterItems('weekend_two', this, true)">Weekend 2 ONLY</button>
-      </div>
-      <div id="lineup-content">
-      </div>
-    </section>
+    <div id="lineup-content"></div>
     <footer>
       <i>under development</i>
     </footer>
-
-    <script src="./app.js"></script>
+    <script src="https://unpkg.com/react@17/umd/react.production.min.js"></script>
+    <script src="https://unpkg.com/react-dom@17/umd/react-dom.production.min.js"></script>
+    <script src="../dist/bundle.js"></script>
   </body>
 
 </html>

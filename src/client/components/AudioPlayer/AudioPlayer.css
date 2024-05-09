@@ -1,0 +1,5 @@
+.audio-sample {
+    cursor: pointer;
+    user-select: none;
+    margin-left: 6px;
+}

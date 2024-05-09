@@ -1,0 +1,92 @@
+.artist-card {
+    border: 1px solid #ccc;
+    padding: 16px 16px;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+
+.header h2 {
+    margin: 0 0 12px;
+    display: flex;
+    align-items: center;
+}
+
+.popularity {
+    margin: 0 16px;
+    font-size: 16px;
+    padding: 8px;
+    border-radius: 50%;
+}
+
+.popularity.green {
+    background-color: lightgreen;
+}
+
+.popularity.yellow {
+    background-color: rgb(250, 255, 162);
+}
+
+.popularity.orange {
+    background-color: rgb(255, 198, 93);
+}
+
+.popularity.red {
+    background-color: rgb(255, 142, 142);
+}
+
+.followers {
+    font-size: 16px;
+    margin-right: 8px;
+}
+
+.genres {
+    margin: 0 0 12px;
+}
+
+.genre {
+    margin: 0 8px 8px 0;
+    padding: 5px;
+    border: 1px #ccc solid;
+    border-radius: 5px;
+    display: inline-flex;
+}
+
+.weekends {
+    border: 1px #ccc solid;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 4px;
+    margin-left: 8px;
+
+}
+
+.weekends.w1 {
+    background-color: rgb(255, 203, 203);
+}
+
+.weekends.w2 {
+    background-color: paleturquoise;
+}
+
+.tracks-header {
+    cursor: pointer;
+    user-select: none;
+}
+
+.tracks-hidden {
+    display: none;
+}
+
+.tracks-visible {
+    display: block;
+}
+
+.track-items {
+    padding-left: 16px;
+}
+
+.track-item {
+    display: flex;
+    align-items: center;
+
+}
