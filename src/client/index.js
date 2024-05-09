@@ -2,27 +2,13 @@ import React, { useState, useEffect } from 'react';
 import ReactDOM from 'react-dom/client';
 
 import styles from './index.css';
+import artistsData from '../../data/2024/artists.json';
 import ArtistCard from './components/ArtistCard/ArtistCard';
 
 function Lineup() {
-  const [artistsData, setArtistsData] = useState([]);
   const [filterWeekend, setFilterWeekend] = useState('');
   const [currentlyPlayingId, setCurrentlyPlayingId] = useState(null);
   const [showingTopTracksIndex, setShowingTopTracksIndex] = useState(null);
-
-  useEffect(() => {
-    fetchData('https://raw.githubusercontent.com/bushrow/acl_lineup_explorer/main/data/2024/artists.json');
-  }, []);
-
-  const fetchData = async (url) => {
-    try {
-      const response = await fetch(url);
-      const data = await response.json();
-      setArtistsData(data);
-    } catch (error) {
-      console.error('Error fetching data:', error);
-    }
-  };
 
   const handleFilterChange = (event) => {
     setFilterWeekend(event.target.value);
