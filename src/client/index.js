@@ -88,35 +88,3 @@ const root = ReactDOM.createRoot(document.getElementById('lineup-content'));
 
 // Render the App component inside the root
 root.render(<Lineup />);
-
-
-function handleFilterClick(button, className, exclusive) {
-  var buttons = document.getElementsByClassName('filter-button');
-  for (var j = 0; j < buttons.length; j++) {
-    buttons[j].classList.remove('active');
-  }
-  button.classList.add('active');
-  var artists = document.getElementsByClassName('artist');
-  for (var i = 0; i < artists.length; i++) {
-    var artist = artists[i];
-    if (className === 'all' || (artist.classList.contains(className) && !exclusive)) {
-      artist.style.display = 'block';
-    } else if (exclusive) {
-      if (className === 'weekend_one') {
-        if (artist.classList.contains('weekend_one') && !artist.classList.contains('weekend_two')) {
-          artist.style.display = 'block';
-        } else {
-          artist.style.display = 'none';
-        }
-      } else if (className === 'weekend_two') {
-        if (!artist.classList.contains('weekend_one') && artist.classList.contains('weekend_two')) {
-          artist.style.display = 'block';
-        } else {
-          artist.style.display = 'none';
-        }
-      }
-    } else {
-      artist.style.display = 'none';
-    }
-  }
-}
