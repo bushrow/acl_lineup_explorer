@@ -57,6 +57,21 @@ document.addEventListener("DOMContentLoaded", function () {
         followers.classList.add('followers');
         followers.textContent = artist.spotify.followers.toLocaleString();
         headerTitle.appendChild(followers);
+
+        if (artist.lineup.weekend_one) {
+          const weekend_one = document.createElement('span');
+          weekend_one.classList.add('weekend');
+          weekend_one.classList.add('w1');
+          weekend_one.textContent = 'W1';
+          headerTitle.appendChild(weekend_one);
+        }
+        if (artist.lineup.weekend_two) {
+          const weekend_two = document.createElement('span');
+          weekend_two.classList.add('weekend');
+          weekend_two.classList.add('w2');
+          weekend_two.textContent = 'W2';
+          headerTitle.appendChild(weekend_two);
+        }
         header.appendChild(headerTitle);
 
         const detail = document.createElement('div');
@@ -79,7 +94,7 @@ document.addEventListener("DOMContentLoaded", function () {
         tracksList.classList.add('tracks-list');
         tracksList.id = artist.spotify.id;
         tracksList.innerHTML = artist.spotify.top_tracks.map(
-          track => `<li><a href="${track.url}" target="_blank">${track.name}</a><button class="play-button" onclick="toggleAudio('${track.preview_url}', this)">▶️</button></li>`
+          track => `<li><a href="${track.url}" target="_blank">${track.name}</a>${!track.preview_url ? '' : '<button class="play-button" onclick="toggleAudio(\'' + track.preview_url + '\', this)">▶️</button>'}</li>`
         ).join('');
         tracks.appendChild(tracksList);
         artistElement.appendChild(tracks);
@@ -90,25 +105,20 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 
-function filterItems(className, button, exclusive) {
-  var buttons = document.getElementsByClassName('filter-button');
-  for (var j = 0; j < buttons.length; j++) {
-    buttons[j].classList.remove('active');
-  }
-  button.classList.add('active');
+function filterItems(select) {
   var artists = document.getElementsByClassName('artist');
   for (var i = 0; i < artists.length; i++) {
     var artist = artists[i];
-    if (className === 'all' || (artist.classList.contains(className) && !exclusive)) {
+    if (select.value === 'all' || (artist.classList.contains(select.value) && !select.value.endsWith('only'))) {
       artist.style.display = 'block';
-    } else if (exclusive) {
-      if (className === 'weekend_one') {
+    } else if (select.value.endsWith('only')) {
+      if (select.value.slice(0, -5) === 'weekend_one') {
         if (artist.classList.contains('weekend_one') && !artist.classList.contains('weekend_two')) {
           artist.style.display = 'block';
         } else {
           artist.style.display = 'none';
         }
-      } else if (className === 'weekend_two') {
+      } else if (select.value.slice(0, -5) === 'weekend_two') {
         if (!artist.classList.contains('weekend_one') && artist.classList.contains('weekend_two')) {
           artist.style.display = 'block';
         } else {

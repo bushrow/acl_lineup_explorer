@@ -24,14 +24,8 @@
     z-index: 999;
 }
 
-.filter-button {
-    border: 1px #ccc solid;
-    border-radius: 5px;
+.weekend-select-div {
     margin: 0 6px 20px 0;
-}
-
-.filter-button.active {
-    background-color: rgb(107, 190, 226);
 }
 
 .artist {
@@ -59,11 +53,11 @@
 }
 
 .popularity.yellow {
-    background-color: lightyellow;
+    background-color: rgb(255, 253, 147);
 }
 
 .popularity.orange {
-    background-color: rgb(255, 202, 105);
+    background-color: rgb(255, 199, 95);
 }
 
 .popularity.red {
@@ -72,6 +66,23 @@
 
 .followers {
     font-size: 16px;
+    margin-right: 8px;
+}
+
+.weekend {
+    font-size: 16px;
+    margin-left: 8px;
+    padding: 4px;
+    border: 1px #ccc solid;
+    border-radius: 4px;
+}
+
+.w1 {
+    background-color: rgb(255, 200, 200);
+}
+
+.w2 {
+    background-color: lightblue;
 }
 
 .genre {
@@ -93,24 +104,20 @@
 
 .tracks-visible {
     display: block;
+    line-height: 24px;
 }
 
 .play-button {
-    width: 25px;
-    height: 25px;
+    width: 20px;
+    height: 20px;
     margin-left: 10px;
-    background-color: #7197c0;
+    background-color: none;
     color: #fff;
     border: none;
-    border-radius: 15%;
     font-size: 20px;
     cursor: pointer;
     display: inline-flex;
     align-items: center;
     justify-content: center;
     outline: none;
-}
-
-.play-button:hover {
-    background-color: #394654;
 }
