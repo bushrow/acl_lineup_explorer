@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/bushrow/acl_lineup_explorer/issues"
   },
-  "homepage": "https://github.com/bushrow/acl_lineup_explorer#index",
+  "homepage": "https://bushrow.github.io/acl_lineup_explorer",
   "dependencies": {
     "gh-pages": "^6.1.1",
     "react": "^18.3.1",
