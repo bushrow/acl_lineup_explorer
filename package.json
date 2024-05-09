@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/bushrow/acl_lineup_explorer#readme",
   "dependencies": {
+    "gh-pages": "^6.1.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
