@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/bushrow/acl_lineup_explorer.git"
   },
+  "deploy": "gh-pages -b main -d build",
   "keywords": [],
   "author": "",
   "license": "ISC",
