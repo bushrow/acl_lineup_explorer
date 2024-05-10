@@ -17796,145 +17796,155 @@
             "weekend_two": false
         },
         "spotify": {
-            "name": "Chappell Roan",
-            "id": "7GlBOeep6PqTfFi59PTUUN",
-            "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN",
+            "name": "Zella Day",
+            "id": "100sLnojEpcadRx4edEBA6",
+            "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6",
             "genres": [
-                "indie pop",
-                "springfield mo indie"
+                "alt z",
+                "electropop",
+                "gauze pop",
+                "indie poptimism"
             ],
-            "followers": 689361,
-            "popularity": 77,
+            "followers": 439102,
+            "popularity": 51,
             "top_tracks": [
                 {
-                    "name": "Good Luck, Babe!",
-                    "id": "0WbMK4wrZ1wFSty9F7FCgu",
-                    "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu",
+                    "name": "Hypnotic",
+                    "id": "2zsWRxMcUdGjj8TnWkVKw0",
+                    "url": "https://open.spotify.com/track/2zsWRxMcUdGjj8TnWkVKw0",
                     "preview_url": null,
                     "artists": [
                         {
-                            "name": "Chappell Roan",
-                            "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+                            "name": "Zella Day",
+                            "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
                         }
                     ],
-                    "popularity": 90
+                    "popularity": 62
                 },
                 {
-                    "name": "Red Wine Supernova",
-                    "id": "7FOgcfdz9Nx5V9lCNXdBYv",
-                    "url": "https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv",
+                    "name": "East of Eden",
+                    "id": "2Wc2tcQl7cPetPKeXH3GD3",
+                    "url": "https://open.spotify.com/track/2Wc2tcQl7cPetPKeXH3GD3",
                     "preview_url": null,
                     "artists": [
                         {
-                            "name": "Chappell Roan",
-                            "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+                            "name": "Zella Day",
+                            "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
                         }
                     ],
-                    "popularity": 84
+                    "popularity": 59
                 },
                 {
-                    "name": "HOT TO GO!",
-                    "id": "4xdBrk0nFZaP54vvZj0yx7",
-                    "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7",
-                    "preview_url": null,
+                    "name": "Seven Nation Army",
+                    "id": "7fBRH08A6Fu47GMyFamyoO",
+                    "url": "https://open.spotify.com/track/7fBRH08A6Fu47GMyFamyoO",
+                    "preview_url": "https://p.scdn.co/mp3-preview/cbd9373ed0308e6f93e67438e5fc8904a2f62928?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "Chappell Roan",
-                            "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+                            "name": "Zella Day",
+                            "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
                         }
                     ],
-                    "popularity": 81
+                    "popularity": 56
                 },
                 {
-                    "name": "Casual",
-                    "id": "3WSOUb3U7tqURbBSgZTrZX",
-                    "url": "https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX",
+                    "name": "For Free",
+                    "id": "2lhfd0CF0dFlwRVH8NG8vv",
+                    "url": "https://open.spotify.com/track/2lhfd0CF0dFlwRVH8NG8vv",
                     "preview_url": null,
                     "artists": [
                         {
-                            "name": "Chappell Roan",
-                            "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+                            "name": "Lana Del Rey",
+                            "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+                        },
+                        {
+                            "name": "Zella Day",
+                            "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
+                        },
+                        {
+                            "name": "Weyes Blood",
+                            "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
                         }
                     ],
-                    "popularity": 80
+                    "popularity": 54
                 },
                 {
-                    "name": "My Kink Is Karma",
-                    "id": "32fSZSbxeVoiZShMQKLc6Z",
-                    "url": "https://open.spotify.com/track/32fSZSbxeVoiZShMQKLc6Z",
+                    "name": "Shadow Preachers",
+                    "id": "6Np3Ntxmj4yl9y3eVB7Esr",
+                    "url": "https://open.spotify.com/track/6Np3Ntxmj4yl9y3eVB7Esr",
                     "preview_url": null,
                     "artists": [
                         {
-                            "name": "Chappell Roan",
-                            "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+                            "name": "Zella Day",
+                            "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
                         }
                     ],
-                    "popularity": 78
+                    "popularity": 48
                 },
                 {
-                    "name": "Femininomenon",
-                    "id": "53IRnAWx13PYmoVYtemUBS",
-                    "url": "https://open.spotify.com/track/53IRnAWx13PYmoVYtemUBS",
-                    "preview_url": null,
+                    "name": "Man on the Moon",
+                    "id": "08lkp84AN53aDQibAbA4cv",
+                    "url": "https://open.spotify.com/track/08lkp84AN53aDQibAbA4cv",
+                    "preview_url": "https://p.scdn.co/mp3-preview/dfc24da2d51d583ae7dfa53b35062fa4ae87d0bd?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "Chappell Roan",
-                            "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+                            "name": "Zella Day",
+                            "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
                         }
                     ],
-                    "popularity": 77
+                    "popularity": 48
                 },
                 {
-                    "name": "Pink Pony Club",
-                    "id": "1k2pQc5i348DCHwbn5KTdc",
-                    "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc",
+                    "name": "Hypnotic - Vanic Remix",
+                    "id": "1lhLZGDYPwXeOjfpxMWtQZ",
+                    "url": "https://open.spotify.com/track/1lhLZGDYPwXeOjfpxMWtQZ",
                     "preview_url": null,
                     "artists": [
                         {
-                            "name": "Chappell Roan",
-                            "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+                            "name": "Zella Day",
+                            "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
                         }
                     ],
-                    "popularity": 76
+                    "popularity": 48
                 },
                 {
-                    "name": "Super Graphic Ultra Modern Girl",
-                    "id": "1rNSCrsOoWyhKH4g47mehU",
-                    "url": "https://open.spotify.com/track/1rNSCrsOoWyhKH4g47mehU",
+                    "name": "You Sexy Thing",
+                    "id": "53gmKxWnHnaT08COPRyaxc",
+                    "url": "https://open.spotify.com/track/53gmKxWnHnaT08COPRyaxc",
                     "preview_url": null,
                     "artists": [
                         {
-                            "name": "Chappell Roan",
-                            "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+                            "name": "Zella Day",
+                            "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
                         }
                     ],
-                    "popularity": 74
+                    "popularity": 45
                 },
                 {
-                    "name": "After Midnight",
-                    "id": "4rlQza35DE4Prh5yonxnCs",
-                    "url": "https://open.spotify.com/track/4rlQza35DE4Prh5yonxnCs",
+                    "name": "Sweet Ophelia",
+                    "id": "1jPZgfC9tWFNf7iBGdrTPV",
+                    "url": "https://open.spotify.com/track/1jPZgfC9tWFNf7iBGdrTPV",
                     "preview_url": null,
                     "artists": [
                         {
-                            "name": "Chappell Roan",
-                            "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+                            "name": "Zella Day",
+                            "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
                         }
                     ],
-                    "popularity": 74
+                    "popularity": 45
                 },
                 {
-                    "name": "Naked In Manhattan",
-                    "id": "4LKYOetuIF5c9XjeLBL9av",
-                    "url": "https://open.spotify.com/track/4LKYOetuIF5c9XjeLBL9av",
+                    "name": "Compass",
+                    "id": "6o20dsWQsZjhydaq893DnE",
+                    "url": "https://open.spotify.com/track/6o20dsWQsZjhydaq893DnE",
                     "preview_url": null,
                     "artists": [
                         {
-                            "name": "Chappell Roan",
-                            "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+                            "name": "Zella Day",
+                            "url": "https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6"
                         }
                     ],
-                    "popularity": 73
+                    "popularity": 44
                 }
             ]
         }
@@ -20566,38 +20576,148 @@
             "weekend_two": true
         },
         "spotify": {
-            "name": "Mister Good 4 the night",
-            "id": "797p6wYOeGaLnnY18P6L4G",
-            "url": "https://open.spotify.com/artist/797p6wYOeGaLnnY18P6L4G",
-            "genres": [],
-            "followers": 5,
-            "popularity": 24,
+            "name": "Mister G",
+            "id": "6N8KFt7TtxPehyZjgZ9qZd",
+            "url": "https://open.spotify.com/artist/6N8KFt7TtxPehyZjgZ9qZd",
+            "genres": [
+                "kindie rock"
+            ],
+            "followers": 748,
+            "popularity": 9,
             "top_tracks": [
                 {
-                    "name": "Peaceful Transport",
-                    "id": "2AxJuNpuIATB5kuShROiGo",
-                    "url": "https://open.spotify.com/track/2AxJuNpuIATB5kuShROiGo",
-                    "preview_url": "https://p.scdn.co/mp3-preview/954f272d58adde6466557fd8d533c18968171a13?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "Se\u00f1orita Mariposa",
+                    "id": "4C2HwloiZi7pcAEHw5mhUg",
+                    "url": "https://open.spotify.com/track/4C2HwloiZi7pcAEHw5mhUg",
+                    "preview_url": "https://p.scdn.co/mp3-preview/78d4ce4b7534a78046c11f1d01ba3d23844db285?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "Mister Good 4 the night",
-                            "url": "https://open.spotify.com/artist/797p6wYOeGaLnnY18P6L4G"
+                            "name": "Mister G",
+                            "url": "https://open.spotify.com/artist/6N8KFt7TtxPehyZjgZ9qZd"
                         }
                     ],
-                    "popularity": 42
+                    "popularity": 12
                 },
                 {
-                    "name": "Lost Night",
-                    "id": "1qysi8Q0hMNbB7qX16m0cl",
-                    "url": "https://open.spotify.com/track/1qysi8Q0hMNbB7qX16m0cl",
-                    "preview_url": "https://p.scdn.co/mp3-preview/59014ef2e312deb55a6f67a6ce6a6b35e73a6cdc?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "Big Old World",
+                    "id": "7xAv3cFpyKRrvmesqMM76z",
+                    "url": "https://open.spotify.com/track/7xAv3cFpyKRrvmesqMM76z",
+                    "preview_url": "https://p.scdn.co/mp3-preview/25e6a2301004ca3781089c19b2feecd4269bc785?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "Mister Good 4 the night",
-                            "url": "https://open.spotify.com/artist/797p6wYOeGaLnnY18P6L4G"
+                            "name": "Mister G",
+                            "url": "https://open.spotify.com/artist/6N8KFt7TtxPehyZjgZ9qZd"
                         }
                     ],
-                    "popularity": 39
+                    "popularity": 12
+                },
+                {
+                    "name": "Purim Party Song",
+                    "id": "7xbkfE3fGfi0uDMOPZmxwW",
+                    "url": "https://open.spotify.com/track/7xbkfE3fGfi0uDMOPZmxwW",
+                    "preview_url": "https://p.scdn.co/mp3-preview/9d3e0d1d3b17a726810236e691eb3e77306e49bb?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "Mister G",
+                            "url": "https://open.spotify.com/artist/6N8KFt7TtxPehyZjgZ9qZd"
+                        }
+                    ],
+                    "popularity": 11
+                },
+                {
+                    "name": "Colores en Mi Mente",
+                    "id": "55bdlDk3OG0Aqvtl6MWxHD",
+                    "url": "https://open.spotify.com/track/55bdlDk3OG0Aqvtl6MWxHD",
+                    "preview_url": "https://p.scdn.co/mp3-preview/7e26d67d9860bcd8b67db7697848c1b42ef418fe?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "Mister G",
+                            "url": "https://open.spotify.com/artist/6N8KFt7TtxPehyZjgZ9qZd"
+                        },
+                        {
+                            "name": "Jos\u00e9 V",
+                            "url": "https://open.spotify.com/artist/3AG4FNa79DYHcAUUGqXoDQ"
+                        }
+                    ],
+                    "popularity": 11
+                },
+                {
+                    "name": "Chocolalala",
+                    "id": "6wLHciYPwYCDu9JpQoAIX8",
+                    "url": "https://open.spotify.com/track/6wLHciYPwYCDu9JpQoAIX8",
+                    "preview_url": "https://p.scdn.co/mp3-preview/538bfbcbf10bcee0e4407b95a9a12c05b1746e47?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "Mister G",
+                            "url": "https://open.spotify.com/artist/6N8KFt7TtxPehyZjgZ9qZd"
+                        }
+                    ],
+                    "popularity": 10
+                },
+                {
+                    "name": "Siete Elefantes",
+                    "id": "07DWrgi2zft5Hr0hIAoD3n",
+                    "url": "https://open.spotify.com/track/07DWrgi2zft5Hr0hIAoD3n",
+                    "preview_url": "https://p.scdn.co/mp3-preview/cb75ea98a63cdaff1c9e4bbcaee65e7773970d5e?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "Mister G",
+                            "url": "https://open.spotify.com/artist/6N8KFt7TtxPehyZjgZ9qZd"
+                        }
+                    ],
+                    "popularity": 9
+                },
+                {
+                    "name": "Hola Amigos",
+                    "id": "53wzlbHuSnRlNusFJ2bBbd",
+                    "url": "https://open.spotify.com/track/53wzlbHuSnRlNusFJ2bBbd",
+                    "preview_url": "https://p.scdn.co/mp3-preview/58957b7684adab12a94a86e4a19ba2cb3e793246?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "Mister G",
+                            "url": "https://open.spotify.com/artist/6N8KFt7TtxPehyZjgZ9qZd"
+                        }
+                    ],
+                    "popularity": 6
+                },
+                {
+                    "name": "Matzah on My Mind",
+                    "id": "2IcdBhwDzfo7sAnpd393bH",
+                    "url": "https://open.spotify.com/track/2IcdBhwDzfo7sAnpd393bH",
+                    "preview_url": "https://p.scdn.co/mp3-preview/8dabd7b82a0648e023a14d8e7c23cca2de8e6586?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "Mister G",
+                            "url": "https://open.spotify.com/artist/6N8KFt7TtxPehyZjgZ9qZd"
+                        }
+                    ],
+                    "popularity": 6
+                },
+                {
+                    "name": "Bailamos",
+                    "id": "5c0ujfluikmVGEuylO8vgl",
+                    "url": "https://open.spotify.com/track/5c0ujfluikmVGEuylO8vgl",
+                    "preview_url": "https://p.scdn.co/mp3-preview/1accdd7372c2fa004d60e834a9cee9e70466d830?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "Mister G",
+                            "url": "https://open.spotify.com/artist/6N8KFt7TtxPehyZjgZ9qZd"
+                        }
+                    ],
+                    "popularity": 6
+                },
+                {
+                    "name": "Mundo Verde / Green World",
+                    "id": "432V4Ya4aiiR3auSnL12Sj",
+                    "url": "https://open.spotify.com/track/432V4Ya4aiiR3auSnL12Sj",
+                    "preview_url": "https://p.scdn.co/mp3-preview/ae6ada420a4c2422790f3e0885674b8b425bb09e?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "Mister G",
+                            "url": "https://open.spotify.com/artist/6N8KFt7TtxPehyZjgZ9qZd"
+                        }
+                    ],
+                    "popularity": 6
                 }
             ]
         }
@@ -20610,29 +20730,137 @@
             "weekend_two": true
         },
         "spotify": {
-            "name": "Homeschool Dropouts",
-            "id": "0Q5Xiu38qDlI6cPr7VRJgL",
-            "url": "https://open.spotify.com/artist/0Q5Xiu38qDlI6cPr7VRJgL",
+            "name": "homescool",
+            "id": "6c148VhPJsuj3aZmCEKwXV",
+            "url": "https://open.spotify.com/artist/6c148VhPJsuj3aZmCEKwXV",
             "genres": [],
-            "followers": 248,
-            "popularity": 25,
+            "followers": 117,
+            "popularity": 0,
             "top_tracks": [
                 {
-                    "name": "Night City Aliens",
-                    "id": "7lQeIeQFcqPnJpGICPBX1y",
-                    "url": "https://open.spotify.com/track/7lQeIeQFcqPnJpGICPBX1y",
-                    "preview_url": "https://p.scdn.co/mp3-preview/a24c79eea6314013ed1b9d7de37ce08c186019d1?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "A Song About Dancing",
+                    "id": "69L2xfw5OGDwU73xd6avC8",
+                    "url": "https://open.spotify.com/track/69L2xfw5OGDwU73xd6avC8",
+                    "preview_url": "https://p.scdn.co/mp3-preview/a7cb62851cb41dd4f8fe39731da5096e304f2b55?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "The Armed",
-                            "url": "https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K"
+                            "name": "homescool",
+                            "url": "https://open.spotify.com/artist/6c148VhPJsuj3aZmCEKwXV"
                         },
                         {
-                            "name": "Homeschool Dropouts",
-                            "url": "https://open.spotify.com/artist/0Q5Xiu38qDlI6cPr7VRJgL"
+                            "name": "Gia James Reynolds",
+                            "url": "https://open.spotify.com/artist/1xL6GZgol8OBa3QzBGWYOB"
                         }
                     ],
-                    "popularity": 45
+                    "popularity": 2
+                },
+                {
+                    "name": "The Drums",
+                    "id": "52ldbl1XSn81xiTo720kMY",
+                    "url": "https://open.spotify.com/track/52ldbl1XSn81xiTo720kMY",
+                    "preview_url": "https://p.scdn.co/mp3-preview/7f802d420dd9f076c724011defbe315d2807289d?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "homescool",
+                            "url": "https://open.spotify.com/artist/6c148VhPJsuj3aZmCEKwXV"
+                        },
+                        {
+                            "name": "Street Drum Corps",
+                            "url": "https://open.spotify.com/artist/6AwFByd2anKz9GDUPqUd1A"
+                        }
+                    ],
+                    "popularity": 0
+                },
+                {
+                    "name": "I Love My Dad",
+                    "id": "59Zslp0thgaIC6tDCCJuvq",
+                    "url": "https://open.spotify.com/track/59Zslp0thgaIC6tDCCJuvq",
+                    "preview_url": "https://p.scdn.co/mp3-preview/0a8141c2ce64280c75f5e7eb4c597fba7dec75c2?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "homescool",
+                            "url": "https://open.spotify.com/artist/6c148VhPJsuj3aZmCEKwXV"
+                        }
+                    ],
+                    "popularity": 0
+                },
+                {
+                    "name": "POGO",
+                    "id": "5bk1dI6YpOPyXM1A3Q8N2K",
+                    "url": "https://open.spotify.com/track/5bk1dI6YpOPyXM1A3Q8N2K",
+                    "preview_url": "https://p.scdn.co/mp3-preview/92bdf7491cf60ad2732bd39aeed956407fd64470?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "homescool",
+                            "url": "https://open.spotify.com/artist/6c148VhPJsuj3aZmCEKwXV"
+                        }
+                    ],
+                    "popularity": 0
+                },
+                {
+                    "name": "Cat's Meow",
+                    "id": "4OOS6wln5uJR3mZwfDrfbB",
+                    "url": "https://open.spotify.com/track/4OOS6wln5uJR3mZwfDrfbB",
+                    "preview_url": "https://p.scdn.co/mp3-preview/81420c1fc34b934fd01f63dde2017184707c36dd?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "homescool",
+                            "url": "https://open.spotify.com/artist/6c148VhPJsuj3aZmCEKwXV"
+                        }
+                    ],
+                    "popularity": 0
+                },
+                {
+                    "name": "Zoom Birthday",
+                    "id": "4d6q3yaP5JAr8oi7fvrMmd",
+                    "url": "https://open.spotify.com/track/4d6q3yaP5JAr8oi7fvrMmd",
+                    "preview_url": "https://p.scdn.co/mp3-preview/d065a25fd0be275dc05f2992a2102fc5f84374e5?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "homescool",
+                            "url": "https://open.spotify.com/artist/6c148VhPJsuj3aZmCEKwXV"
+                        }
+                    ],
+                    "popularity": 0
+                },
+                {
+                    "name": "Bring on a Happy New Year",
+                    "id": "2WJ65EQSZR9qZnXKlS2u9B",
+                    "url": "https://open.spotify.com/track/2WJ65EQSZR9qZnXKlS2u9B",
+                    "preview_url": "https://p.scdn.co/mp3-preview/78eaa28bc616f9142f5aab073e020eddff12e06d?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "homescool",
+                            "url": "https://open.spotify.com/artist/6c148VhPJsuj3aZmCEKwXV"
+                        }
+                    ],
+                    "popularity": 0
+                },
+                {
+                    "name": "Please Say Yes to a Kitten",
+                    "id": "4DY4NyC21R5jGHJOBaVYQ1",
+                    "url": "https://open.spotify.com/track/4DY4NyC21R5jGHJOBaVYQ1",
+                    "preview_url": "https://p.scdn.co/mp3-preview/0def6e9d682f3aac7cfce77b11591325eb03f210?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "homescool",
+                            "url": "https://open.spotify.com/artist/6c148VhPJsuj3aZmCEKwXV"
+                        }
+                    ],
+                    "popularity": 0
+                },
+                {
+                    "name": "I Love Christmas",
+                    "id": "4fZnmHe9WdR87TCoWcCIuf",
+                    "url": "https://open.spotify.com/track/4fZnmHe9WdR87TCoWcCIuf",
+                    "preview_url": "https://p.scdn.co/mp3-preview/5e4732a496d5c4b5899be757adb358761c64f198?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "homescool",
+                            "url": "https://open.spotify.com/artist/6c148VhPJsuj3aZmCEKwXV"
+                        }
+                    ],
+                    "popularity": 0
                 }
             ]
         }
