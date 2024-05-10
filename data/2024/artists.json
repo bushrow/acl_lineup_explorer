@@ -7459,146 +7459,157 @@
             "weekend_two": true
         },
         "spotify": {
-            "name": "Something Corporate",
-            "id": "71h7GTahhKcSkQ1ayhTvOD",
-            "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD",
+            "name": "The Beaches",
+            "id": "6ws5XBA70XgeBpnLZhQBoy",
+            "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy",
             "genres": [
-                "neon pop punk",
-                "piano rock",
-                "pop punk"
+                "canadian indie rock",
+                "toronto indie"
             ],
-            "followers": 178639,
-            "popularity": 42,
+            "followers": 220442,
+            "popularity": 59,
             "top_tracks": [
                 {
-                    "name": "Punk Rock Princess",
-                    "id": "07oVZP9Er2Fz8S59ePWLyK",
-                    "url": "https://open.spotify.com/track/07oVZP9Er2Fz8S59ePWLyK",
-                    "preview_url": null,
+                    "name": "Blame Brett",
+                    "id": "6twjuBZfRJIZnoHrghzWLk",
+                    "url": "https://open.spotify.com/track/6twjuBZfRJIZnoHrghzWLk",
+                    "preview_url": "https://p.scdn.co/mp3-preview/d46b76a3887bc80ea67b6eeeb51c532405ba9f18?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "Something Corporate",
-                            "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
+                            "name": "The Beaches",
+                            "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
                         }
                     ],
-                    "popularity": 53
+                    "popularity": 71
                 },
                 {
-                    "name": "I Woke Up In A Car",
-                    "id": "3kaK1EohdhDXT5ICBMRGkz",
-                    "url": "https://open.spotify.com/track/3kaK1EohdhDXT5ICBMRGkz",
-                    "preview_url": null,
+                    "name": "Living In A Haze - feat. The Beaches",
+                    "id": "5QPRZdajTSKbdUERR8zvWB",
+                    "url": "https://open.spotify.com/track/5QPRZdajTSKbdUERR8zvWB",
+                    "preview_url": "https://p.scdn.co/mp3-preview/a556870c8739de5865285204dacf0f42741072f9?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "Something Corporate",
-                            "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
+                            "name": "Milky Chance",
+                            "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+                        },
+                        {
+                            "name": "The Beaches",
+                            "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+                        }
+                    ],
+                    "popularity": 66
+                },
+                {
+                    "name": "Edge of the Earth",
+                    "id": "4Zy6m1QjUivLl8Zt7E8uxr",
+                    "url": "https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr",
+                    "preview_url": "https://p.scdn.co/mp3-preview/dd923c6ecb4aa31e2e610857bd7474cb2c143e4a?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "The Beaches",
+                            "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+                        }
+                    ],
+                    "popularity": 66
+                },
+                {
+                    "name": "Me & Me",
+                    "id": "0EKos2FaZxVXNr96xi1but",
+                    "url": "https://open.spotify.com/track/0EKos2FaZxVXNr96xi1but",
+                    "preview_url": "https://p.scdn.co/mp3-preview/503e9ca318da6a0a8ee7108dcb5e4d6ddf0a5490?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "The Beaches",
+                            "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+                        }
+                    ],
+                    "popularity": 57
+                },
+                {
+                    "name": "Everything is Boring",
+                    "id": "1GJV0ZOnHQExbKpw9fjbh5",
+                    "url": "https://open.spotify.com/track/1GJV0ZOnHQExbKpw9fjbh5",
+                    "preview_url": "https://p.scdn.co/mp3-preview/2a39903d834308aff8d54c12f0c30b5e997f77d2?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "The Beaches",
+                            "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+                        }
+                    ],
+                    "popularity": 56
+                },
+                {
+                    "name": "What Doesn't Kill You Makes You Paranoid",
+                    "id": "3xLOD2jhRXA9CVEfNRHt6C",
+                    "url": "https://open.spotify.com/track/3xLOD2jhRXA9CVEfNRHt6C",
+                    "preview_url": "https://p.scdn.co/mp3-preview/eb4fa425cdb1ac8ddfac7817ef44e381c9edd3e5?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "The Beaches",
+                            "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+                        }
+                    ],
+                    "popularity": 54
+                },
+                {
+                    "name": "My Body ft Your Lips",
+                    "id": "4xkxhTvP9tmCKfAIO8GFJR",
+                    "url": "https://open.spotify.com/track/4xkxhTvP9tmCKfAIO8GFJR",
+                    "preview_url": "https://p.scdn.co/mp3-preview/00849d8b8846893f2784bc185307d76723219b82?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "The Beaches",
+                            "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+                        },
+                        {
+                            "name": "Beach Weather",
+                            "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
                         }
                     ],
                     "popularity": 52
                 },
                 {
-                    "name": "Konstantine",
-                    "id": "7rVJB8DKktVinHrOBNbF7H",
-                    "url": "https://open.spotify.com/track/7rVJB8DKktVinHrOBNbF7H",
-                    "preview_url": null,
+                    "name": "Blame Brett (feat. Royal & The Serpent)",
+                    "id": "5qPmI0WgZ624bsXQ9iYOtD",
+                    "url": "https://open.spotify.com/track/5qPmI0WgZ624bsXQ9iYOtD",
+                    "preview_url": "https://p.scdn.co/mp3-preview/8d07ede85404fee43e0a72cbe7d8c9665ac5a64a?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "Something Corporate",
-                            "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
+                            "name": "The Beaches",
+                            "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+                        },
+                        {
+                            "name": "Royal & the Serpent",
+                            "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
                         }
                     ],
-                    "popularity": 42
+                    "popularity": 51
                 },
                 {
-                    "name": "Hurricane",
-                    "id": "4LxX6vXLnrfamm2Suj6WNf",
-                    "url": "https://open.spotify.com/track/4LxX6vXLnrfamm2Suj6WNf",
-                    "preview_url": null,
+                    "name": "Shower Beer",
+                    "id": "6Kf0pq9FXBBwMkrgEKDT6S",
+                    "url": "https://open.spotify.com/track/6Kf0pq9FXBBwMkrgEKDT6S",
+                    "preview_url": "https://p.scdn.co/mp3-preview/5f9c97985f8e2e22959abd1f448471ea5518d797?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "Something Corporate",
-                            "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
+                            "name": "The Beaches",
+                            "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
                         }
                     ],
-                    "popularity": 42
+                    "popularity": 51
                 },
                 {
-                    "name": "Space",
-                    "id": "2gicirQ6rA2ntTGU7Fen8a",
-                    "url": "https://open.spotify.com/track/2gicirQ6rA2ntTGU7Fen8a",
-                    "preview_url": null,
+                    "name": "Grow Up Tomorrow",
+                    "id": "01RyfioUxfQO4gSIg2NXb9",
+                    "url": "https://open.spotify.com/track/01RyfioUxfQO4gSIg2NXb9",
+                    "preview_url": "https://p.scdn.co/mp3-preview/2a6d838ded06fcc728f2d84909004a3ec367deae?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "Something Corporate",
-                            "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
+                            "name": "The Beaches",
+                            "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
                         }
                     ],
-                    "popularity": 41
-                },
-                {
-                    "name": "Watch The Sky",
-                    "id": "1Zt44jhN6toEcF0K5TP1KV",
-                    "url": "https://open.spotify.com/track/1Zt44jhN6toEcF0K5TP1KV",
-                    "preview_url": null,
-                    "artists": [
-                        {
-                            "name": "Something Corporate",
-                            "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
-                        }
-                    ],
-                    "popularity": 36
-                },
-                {
-                    "name": "Ruthless",
-                    "id": "5m2hYtoGdjFDokuSiMJXQ3",
-                    "url": "https://open.spotify.com/track/5m2hYtoGdjFDokuSiMJXQ3",
-                    "preview_url": null,
-                    "artists": [
-                        {
-                            "name": "Something Corporate",
-                            "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
-                        }
-                    ],
-                    "popularity": 36
-                },
-                {
-                    "name": "I Want To Save You",
-                    "id": "1g5WP8pu6w2jEP0vAf5Lxk",
-                    "url": "https://open.spotify.com/track/1g5WP8pu6w2jEP0vAf5Lxk",
-                    "preview_url": null,
-                    "artists": [
-                        {
-                            "name": "Something Corporate",
-                            "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
-                        }
-                    ],
-                    "popularity": 36
-                },
-                {
-                    "name": "Fall",
-                    "id": "0xBD7J8mlvEsWWt76ebYVo",
-                    "url": "https://open.spotify.com/track/0xBD7J8mlvEsWWt76ebYVo",
-                    "preview_url": null,
-                    "artists": [
-                        {
-                            "name": "Something Corporate",
-                            "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
-                        }
-                    ],
-                    "popularity": 35
-                },
-                {
-                    "name": "If You C Jordan",
-                    "id": "1zWzXwOZ7BAW52PU9vAIzO",
-                    "url": "https://open.spotify.com/track/1zWzXwOZ7BAW52PU9vAIzO",
-                    "preview_url": "https://p.scdn.co/mp3-preview/db28cb2223b680d57db5f5bae571ed3fda8a1b05?cid=9ea8e426cd5f4423a935efc976bc065b",
-                    "artists": [
-                        {
-                            "name": "Something Corporate",
-                            "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
-                        }
-                    ],
-                    "popularity": 27
+                    "popularity": 49
                 }
             ]
         }
@@ -7611,191 +7622,142 @@
             "weekend_two": true
         },
         "spotify": {
-            "name": "Kenny Beats",
-            "id": "1rHOtdmGNr5vcYNw5v7QGC",
-            "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC",
+            "name": "flipturn",
+            "id": "7FKTg75ADVMZgY3P9ZMRtH",
+            "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH",
             "genres": [
-                "indie hip hop",
-                "trap",
-                "underground hip hop"
+                "jacksonville indie",
+                "pov: indie"
             ],
-            "followers": 202857,
-            "popularity": 58,
+            "followers": 168837,
+            "popularity": 55,
             "top_tracks": [
                 {
-                    "name": "Phone Numbers",
-                    "id": "3f9Mzvd3URfbbIJBX4pz9Z",
-                    "url": "https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z",
-                    "preview_url": "https://p.scdn.co/mp3-preview/d4ca18382d041d37fda23ba1f4e501d578b55a03?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "August",
+                    "id": "0elCmyfISzkP5tAYTVuYjS",
+                    "url": "https://open.spotify.com/track/0elCmyfISzkP5tAYTVuYjS",
+                    "preview_url": "https://p.scdn.co/mp3-preview/c838b1f3adf2eee23fbd968539bb0550be5ab131?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "Dominic Fike",
-                            "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-                        },
-                        {
-                            "name": "Kenny Beats",
-                            "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+                            "name": "flipturn",
+                            "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
                         }
                     ],
-                    "popularity": 73
+                    "popularity": 65
                 },
                 {
-                    "name": "Hit Me Up",
-                    "id": "7sz6nHtAKOOt5cpOniz0sW",
-                    "url": "https://open.spotify.com/track/7sz6nHtAKOOt5cpOniz0sW",
-                    "preview_url": "https://p.scdn.co/mp3-preview/51709de7a11549975b55cac5bada0cb69f0f96f9?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "Savannah",
+                    "id": "3flgdcFBWI84DPi4s1jhhd",
+                    "url": "https://open.spotify.com/track/3flgdcFBWI84DPi4s1jhhd",
+                    "preview_url": "https://p.scdn.co/mp3-preview/1f8a4590a1cbc09361d94a128bc912fdc44155fe?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "Omar Apollo",
-                            "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-                        },
-                        {
-                            "name": "Dominic Fike",
-                            "url": "https://open.spotify.com/artist/6JGszm6z8oHmeLbxPHjMao"
-                        },
-                        {
-                            "name": "Kenny Beats",
-                            "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+                            "name": "flipturn",
+                            "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
                         }
                     ],
-                    "popularity": 55
+                    "popularity": 63
                 },
                 {
-                    "name": "Pyro (leak 2019)",
-                    "id": "4hgS8ANdhHy2G7XtyVqLDw",
-                    "url": "https://open.spotify.com/track/4hgS8ANdhHy2G7XtyVqLDw",
-                    "preview_url": null,
+                    "name": "Sad Disco",
+                    "id": "2BedHMJWiW5CuiTd2wza1u",
+                    "url": "https://open.spotify.com/track/2BedHMJWiW5CuiTd2wza1u",
+                    "preview_url": "https://p.scdn.co/mp3-preview/d21753ab4c5f597ba3a3c208c6c774f09c3443f6?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "Denzel Curry",
-                            "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-                        },
-                        {
-                            "name": "Kenny Beats",
-                            "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+                            "name": "flipturn",
+                            "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
                         }
                     ],
-                    "popularity": 53
+                    "popularity": 57
                 },
                 {
-                    "name": "IDWK",
-                    "id": "3awnZSyvKdi7rBLttHk36K",
-                    "url": "https://open.spotify.com/track/3awnZSyvKdi7rBLttHk36K",
-                    "preview_url": "https://p.scdn.co/mp3-preview/db2b59368ee698f31626054e9fca55fc23cb8d2e?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "Chicago",
+                    "id": "2BIfG6wL1t5wk1KixoK2BV",
+                    "url": "https://open.spotify.com/track/2BIfG6wL1t5wk1KixoK2BV",
+                    "preview_url": "https://p.scdn.co/mp3-preview/2278d1daa61b894b9203f3c7ee66ba209bdc1be4?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "347aidan",
-                            "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
-                        },
-                        {
-                            "name": "Kenny Beats",
-                            "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+                            "name": "flipturn",
+                            "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
                         }
                     ],
-                    "popularity": 53
+                    "popularity": 56
                 },
                 {
-                    "name": "Hold My Head",
-                    "id": "4eSZUNz2flCKs7zESV50kW",
-                    "url": "https://open.spotify.com/track/4eSZUNz2flCKs7zESV50kW",
-                    "preview_url": "https://p.scdn.co/mp3-preview/43d34ae396c0bd852e1dfc1517431b352670ecac?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "August (Acoustic)",
+                    "id": "2JXiyD1zucGdFmnTeYb5Ry",
+                    "url": "https://open.spotify.com/track/2JXiyD1zucGdFmnTeYb5Ry",
+                    "preview_url": "https://p.scdn.co/mp3-preview/fad918375d6feca6518aec7debbb1195afcc2e0c?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "Kenny Beats",
-                            "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+                            "name": "flipturn",
+                            "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
+                        }
+                    ],
+                    "popularity": 56
+                },
+                {
+                    "name": "Vanilla",
+                    "id": "21lfQ6cXJF15ubyPLB6qHz",
+                    "url": "https://open.spotify.com/track/21lfQ6cXJF15ubyPLB6qHz",
+                    "preview_url": "https://p.scdn.co/mp3-preview/3f0507ddbbe98405004cb59ae00f8367be96ca43?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "flipturn",
+                            "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
+                        }
+                    ],
+                    "popularity": 56
+                },
+                {
+                    "name": "Glistening",
+                    "id": "3FRJFImdfX5NSY3QH3jI4u",
+                    "url": "https://open.spotify.com/track/3FRJFImdfX5NSY3QH3jI4u",
+                    "preview_url": "https://p.scdn.co/mp3-preview/ea938de61fa594da2b2dee883e6900e6087b8707?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "flipturn",
+                            "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
+                        }
+                    ],
+                    "popularity": 54
+                },
+                {
+                    "name": "Space Cowboy",
+                    "id": "3hFB5ei33hmEbbiWWo40EZ",
+                    "url": "https://open.spotify.com/track/3hFB5ei33hmEbbiWWo40EZ",
+                    "preview_url": "https://p.scdn.co/mp3-preview/bf572b7f7c04d7e757794f498ff3987c3ab38837?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "flipturn",
+                            "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
                         }
                     ],
                     "popularity": 52
                 },
                 {
-                    "name": "Last Words",
-                    "id": "1rOKAsJZJDIikOKDeUfPRV",
-                    "url": "https://open.spotify.com/track/1rOKAsJZJDIikOKDeUfPRV",
-                    "preview_url": "https://p.scdn.co/mp3-preview/226313d8ed1cb7dee0bf814219f4bdbd5a6b0f2a?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "Six Below",
+                    "id": "2gxYpg3ruB8p9DFWvnTHNX",
+                    "url": "https://open.spotify.com/track/2gxYpg3ruB8p9DFWvnTHNX",
+                    "preview_url": "https://p.scdn.co/mp3-preview/cebf92a76db0c3ece7da4b5025dda3a585673550?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "Kenny Beats",
-                            "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
-                        }
-                    ],
-                    "popularity": 52
-                },
-                {
-                    "name": "I Suppose",
-                    "id": "7qRCVfjifWMt3q2MVfV8mV",
-                    "url": "https://open.spotify.com/track/7qRCVfjifWMt3q2MVfV8mV",
-                    "preview_url": "https://p.scdn.co/mp3-preview/51e7af528425bc4b77aa54f7ab3658fde254f677?cid=9ea8e426cd5f4423a935efc976bc065b",
-                    "artists": [
-                        {
-                            "name": "Knucks",
-                            "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
-                        },
-                        {
-                            "name": "Larry June",
-                            "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-                        },
-                        {
-                            "name": "Kenny Beats",
-                            "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+                            "name": "flipturn",
+                            "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
                         }
                     ],
                     "popularity": 51
                 },
                 {
-                    "name": "Baguetti (with JID & Kenny Beats)",
-                    "id": "3DcL8FXLA9iKwqnyj9POLt",
-                    "url": "https://open.spotify.com/track/3DcL8FXLA9iKwqnyj9POLt",
-                    "preview_url": null,
+                    "name": "Hippies",
+                    "id": "7r5elbHLaVama2WsDQpDp6",
+                    "url": "https://open.spotify.com/track/7r5elbHLaVama2WsDQpDp6",
+                    "preview_url": "https://p.scdn.co/mp3-preview/57b4d8c75a4f16580c14c3095da954012351d922?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "Smino",
-                            "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-                        },
-                        {
-                            "name": "JID",
-                            "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-                        },
-                        {
-                            "name": "Kenny Beats",
-                            "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
-                        }
-                    ],
-                    "popularity": 51
-                },
-                {
-                    "name": "AIN'T GON STOP ME",
-                    "id": "1JdFSVTGl0gDJJVUTBvauR",
-                    "url": "https://open.spotify.com/track/1JdFSVTGl0gDJJVUTBvauR",
-                    "preview_url": "https://p.scdn.co/mp3-preview/bc80fcf70665f90d54daaa77840c43159193a72a?cid=9ea8e426cd5f4423a935efc976bc065b",
-                    "artists": [
-                        {
-                            "name": "reggie",
-                            "url": "https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16"
-                        },
-                        {
-                            "name": "monte booker",
-                            "url": "https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo"
-                        },
-                        {
-                            "name": "Kenny Beats",
-                            "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
-                        }
-                    ],
-                    "popularity": 51
-                },
-                {
-                    "name": "DIET_",
-                    "id": "1AzqpMy3yLYNITSOUrnL8i",
-                    "url": "https://open.spotify.com/track/1AzqpMy3yLYNITSOUrnL8i",
-                    "preview_url": null,
-                    "artists": [
-                        {
-                            "name": "Denzel Curry",
-                            "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-                        },
-                        {
-                            "name": "Kenny Beats",
-                            "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+                            "name": "flipturn",
+                            "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
                         }
                     ],
                     "popularity": 51
@@ -7963,146 +7925,149 @@
             "weekend_two": true
         },
         "spotify": {
-            "name": "David Shaw",
-            "id": "6CzswKAZkHvgH3qu6wqkHe",
-            "url": "https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe",
-            "genres": [],
-            "followers": 9310,
-            "popularity": 33,
+            "name": "Movements",
+            "id": "1kkyfIopIiVvaPHHlbsfac",
+            "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac",
+            "genres": [
+                "alternative emo",
+                "dreamo",
+                "emo",
+                "midwest emo",
+                "pop punk",
+                "socal pop punk"
+            ],
+            "followers": 261963,
+            "popularity": 54,
             "top_tracks": [
                 {
-                    "name": "Heavy Soul",
-                    "id": "1A2bzo7IAxpWQkLu7hoXkj",
-                    "url": "https://open.spotify.com/track/1A2bzo7IAxpWQkLu7hoXkj",
-                    "preview_url": "https://p.scdn.co/mp3-preview/d9b50e4e3d16b4b90cbf160f2273fa22b6df41ec?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "Daylily",
+                    "id": "6AgtouHw1KrKy1PsoLjY3o",
+                    "url": "https://open.spotify.com/track/6AgtouHw1KrKy1PsoLjY3o",
+                    "preview_url": null,
                     "artists": [
                         {
-                            "name": "David Shaw",
-                            "url": "https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe"
+                            "name": "Movements",
+                            "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
                         }
                     ],
-                    "popularity": 44
+                    "popularity": 62
                 },
                 {
-                    "name": "Stray",
-                    "id": "38AZSMHSwkhiAZsxDgQOHs",
-                    "url": "https://open.spotify.com/track/38AZSMHSwkhiAZsxDgQOHs",
-                    "preview_url": "https://p.scdn.co/mp3-preview/ee1d3713c92aff1fa0a5dfc086a595f3f7779fed?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "Full Circle",
+                    "id": "4pdPJQqQNWuDQ6Swl2mW2u",
+                    "url": "https://open.spotify.com/track/4pdPJQqQNWuDQ6Swl2mW2u",
+                    "preview_url": null,
                     "artists": [
                         {
-                            "name": "Naughty Professor",
-                            "url": "https://open.spotify.com/artist/5oVhfa2J5GiPx2x0YTuJjI"
-                        },
-                        {
-                            "name": "David Shaw",
-                            "url": "https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe"
+                            "name": "Movements",
+                            "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
                         }
                     ],
-                    "popularity": 22
+                    "popularity": 57
                 },
                 {
-                    "name": "Got Me Feeling Good",
-                    "id": "0giZpwlfUQCjtYTWkmMSyq",
-                    "url": "https://open.spotify.com/track/0giZpwlfUQCjtYTWkmMSyq",
-                    "preview_url": "https://p.scdn.co/mp3-preview/35dadcc20bf0aae9b0c77ea4b6c93910eb608605?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "Colorblind",
+                    "id": "4jhbBCHWjQqWD4cifyuAcA",
+                    "url": "https://open.spotify.com/track/4jhbBCHWjQqWD4cifyuAcA",
+                    "preview_url": null,
                     "artists": [
                         {
-                            "name": "David Shaw",
-                            "url": "https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe"
+                            "name": "Movements",
+                            "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
                         }
                     ],
-                    "popularity": 37
+                    "popularity": 56
                 },
                 {
-                    "name": "Shaken",
-                    "id": "4NZcKYS0KsnJsx1BB6yGGD",
-                    "url": "https://open.spotify.com/track/4NZcKYS0KsnJsx1BB6yGGD",
-                    "preview_url": "https://p.scdn.co/mp3-preview/2523fcc403b597ef206a8c55ba86dbe21f58f893?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "Kept",
+                    "id": "4mW87rC2y8oJWYCglzBuO1",
+                    "url": "https://open.spotify.com/track/4mW87rC2y8oJWYCglzBuO1",
+                    "preview_url": null,
                     "artists": [
                         {
-                            "name": "David Shaw",
-                            "url": "https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe"
+                            "name": "Movements",
+                            "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
                         }
                     ],
-                    "popularity": 34
+                    "popularity": 55
                 },
                 {
-                    "name": "I Can Hear You (Calling on Me)",
-                    "id": "72Jbcv4OEynpQZPMdsISUQ",
-                    "url": "https://open.spotify.com/track/72Jbcv4OEynpQZPMdsISUQ",
-                    "preview_url": "https://p.scdn.co/mp3-preview/0eedbc41dbb232455080712d9cc2ef6045e5aa7f?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "Cherry Thrill",
+                    "id": "3zrA9UNPZqSpgFD1GXIHhg",
+                    "url": "https://open.spotify.com/track/3zrA9UNPZqSpgFD1GXIHhg",
+                    "preview_url": null,
                     "artists": [
                         {
-                            "name": "David Shaw",
-                            "url": "https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe"
+                            "name": "Movements",
+                            "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
                         }
                     ],
-                    "popularity": 33
+                    "popularity": 53
                 },
                 {
-                    "name": "Promised Land",
-                    "id": "0heaNwFzMIb9TgGmiThxil",
-                    "url": "https://open.spotify.com/track/0heaNwFzMIb9TgGmiThxil",
-                    "preview_url": "https://p.scdn.co/mp3-preview/2f8864af5c58f1d228776917e7e8045651577383?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "Lead Pipe",
+                    "id": "791XlnGCxlmyPS6BKdNzbp",
+                    "url": "https://open.spotify.com/track/791XlnGCxlmyPS6BKdNzbp",
+                    "preview_url": null,
                     "artists": [
                         {
-                            "name": "David Shaw",
-                            "url": "https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe"
+                            "name": "Movements",
+                            "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
                         }
                     ],
-                    "popularity": 32
+                    "popularity": 52
                 },
                 {
-                    "name": "The Place",
-                    "id": "1zOaq42kNdNnSOj9O1WA38",
-                    "url": "https://open.spotify.com/track/1zOaq42kNdNnSOj9O1WA38",
-                    "preview_url": "https://p.scdn.co/mp3-preview/500c01049c6bec82726ccec91c9e65dbdbb38753?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "Third Degree",
+                    "id": "31ziLyxm1ZIy8vEXM6EzkF",
+                    "url": "https://open.spotify.com/track/31ziLyxm1ZIy8vEXM6EzkF",
+                    "preview_url": null,
                     "artists": [
                         {
-                            "name": "David Shaw",
-                            "url": "https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe"
+                            "name": "Movements",
+                            "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
                         }
                     ],
-                    "popularity": 30
+                    "popularity": 51
                 },
                 {
-                    "name": "Alabama",
-                    "id": "2rKua1KKZFkvNfuVPfzZVr",
-                    "url": "https://open.spotify.com/track/2rKua1KKZFkvNfuVPfzZVr",
-                    "preview_url": "https://p.scdn.co/mp3-preview/f3c06bace79440bdcf0b4b8bcf00fcf80d5ba61c?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "Panic",
+                    "id": "0qwoBdMnysN7dDT6tK3fcE",
+                    "url": "https://open.spotify.com/track/0qwoBdMnysN7dDT6tK3fcE",
+                    "preview_url": null,
                     "artists": [
                         {
-                            "name": "David Shaw",
-                            "url": "https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe"
+                            "name": "Movements",
+                            "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
                         }
                     ],
-                    "popularity": 28
+                    "popularity": 51
                 },
                 {
-                    "name": "I'll Be Your Man",
-                    "id": "08xfQztp1FPQTY49nE6eAZ",
-                    "url": "https://open.spotify.com/track/08xfQztp1FPQTY49nE6eAZ",
-                    "preview_url": "https://p.scdn.co/mp3-preview/068e0be17b0e942f03041f63b22563dfc579cae9?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "I Hope You Choke!",
+                    "id": "5q6pgHMUEIdq78NVmmytL5",
+                    "url": "https://open.spotify.com/track/5q6pgHMUEIdq78NVmmytL5",
+                    "preview_url": null,
                     "artists": [
                         {
-                            "name": "David Shaw",
-                            "url": "https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe"
+                            "name": "Movements",
+                            "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
                         }
                     ],
-                    "popularity": 27
+                    "popularity": 50
                 },
                 {
-                    "name": "Something to This Feeling",
-                    "id": "2Sc7QlNEJ5yyXWQ1H0cgQb",
-                    "url": "https://open.spotify.com/track/2Sc7QlNEJ5yyXWQ1H0cgQb",
-                    "preview_url": "https://p.scdn.co/mp3-preview/0de20cb529cfb74f9446d674af8a737f160328fb?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "Heaven Sent",
+                    "id": "2VVPf2Z8FmTwfT5oUnFE48",
+                    "url": "https://open.spotify.com/track/2VVPf2Z8FmTwfT5oUnFE48",
+                    "preview_url": null,
                     "artists": [
                         {
-                            "name": "David Shaw",
-                            "url": "https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe"
+                            "name": "Movements",
+                            "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
                         }
                     ],
-                    "popularity": 26
+                    "popularity": 49
                 }
             ]
         }
@@ -8115,146 +8080,142 @@
             "weekend_two": true
         },
         "spotify": {
-            "name": "David Shaw",
-            "id": "6CzswKAZkHvgH3qu6wqkHe",
-            "url": "https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe",
+            "name": "Royel Otis",
+            "id": "5b5bt4mZQpJMoCRbiQ7diH",
+            "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH",
             "genres": [],
-            "followers": 9310,
-            "popularity": 33,
+            "followers": 203079,
+            "popularity": 64,
             "top_tracks": [
                 {
-                    "name": "Heavy Soul",
-                    "id": "1A2bzo7IAxpWQkLu7hoXkj",
-                    "url": "https://open.spotify.com/track/1A2bzo7IAxpWQkLu7hoXkj",
-                    "preview_url": "https://p.scdn.co/mp3-preview/d9b50e4e3d16b4b90cbf160f2273fa22b6df41ec?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "Oysters In My Pocket",
+                    "id": "2B664ulJSVBd6B8SAY3Wux",
+                    "url": "https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux",
+                    "preview_url": "https://p.scdn.co/mp3-preview/2ab1d02f3848e7dc4153194177169784cac3d39d?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "David Shaw",
-                            "url": "https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe"
+                            "name": "Royel Otis",
+                            "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
                         }
                     ],
-                    "popularity": 44
+                    "popularity": 76
                 },
                 {
-                    "name": "Stray",
-                    "id": "38AZSMHSwkhiAZsxDgQOHs",
-                    "url": "https://open.spotify.com/track/38AZSMHSwkhiAZsxDgQOHs",
-                    "preview_url": "https://p.scdn.co/mp3-preview/ee1d3713c92aff1fa0a5dfc086a595f3f7779fed?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "Murder on the Dance Floor - triple j Like A Version",
+                    "id": "1swz9stsbG1p34SJHJqiww",
+                    "url": "https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww",
+                    "preview_url": "https://p.scdn.co/mp3-preview/a58312c671d35246749c771e38e7ab804525e6aa?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "Naughty Professor",
-                            "url": "https://open.spotify.com/artist/5oVhfa2J5GiPx2x0YTuJjI"
-                        },
-                        {
-                            "name": "David Shaw",
-                            "url": "https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe"
+                            "name": "Royel Otis",
+                            "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
                         }
                     ],
-                    "popularity": 22
+                    "popularity": 75
                 },
                 {
-                    "name": "Got Me Feeling Good",
-                    "id": "0giZpwlfUQCjtYTWkmMSyq",
-                    "url": "https://open.spotify.com/track/0giZpwlfUQCjtYTWkmMSyq",
-                    "preview_url": "https://p.scdn.co/mp3-preview/35dadcc20bf0aae9b0c77ea4b6c93910eb608605?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "Sofa King",
+                    "id": "25HgUJf69zb3K7TJw7LGCQ",
+                    "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ",
+                    "preview_url": "https://p.scdn.co/mp3-preview/6c7a210e206fb4d282186304f934881b34620456?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "David Shaw",
-                            "url": "https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe"
+                            "name": "Royel Otis",
+                            "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
                         }
                     ],
-                    "popularity": 37
+                    "popularity": 68
                 },
                 {
-                    "name": "Shaken",
-                    "id": "4NZcKYS0KsnJsx1BB6yGGD",
-                    "url": "https://open.spotify.com/track/4NZcKYS0KsnJsx1BB6yGGD",
-                    "preview_url": "https://p.scdn.co/mp3-preview/2523fcc403b597ef206a8c55ba86dbe21f58f893?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "Kool Aid",
+                    "id": "2HKDVLcHYBD8asWWttLU3W",
+                    "url": "https://open.spotify.com/track/2HKDVLcHYBD8asWWttLU3W",
+                    "preview_url": "https://p.scdn.co/mp3-preview/2442a2eb6b9d25fa497a8aed1a491efa0ba675c9?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "David Shaw",
-                            "url": "https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe"
+                            "name": "Royel Otis",
+                            "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
                         }
                     ],
-                    "popularity": 34
+                    "popularity": 64
                 },
                 {
-                    "name": "I Can Hear You (Calling on Me)",
-                    "id": "72Jbcv4OEynpQZPMdsISUQ",
-                    "url": "https://open.spotify.com/track/72Jbcv4OEynpQZPMdsISUQ",
-                    "preview_url": "https://p.scdn.co/mp3-preview/0eedbc41dbb232455080712d9cc2ef6045e5aa7f?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "Going Kokomo",
+                    "id": "4E4Gxykl5nYMSIwlIVzjGr",
+                    "url": "https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr",
+                    "preview_url": "https://p.scdn.co/mp3-preview/f38b71e6f70fc69dbc3a87e619d55d1a05c33a67?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "David Shaw",
-                            "url": "https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe"
+                            "name": "Royel Otis",
+                            "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
                         }
                     ],
-                    "popularity": 33
+                    "popularity": 63
                 },
                 {
-                    "name": "Promised Land",
-                    "id": "0heaNwFzMIb9TgGmiThxil",
-                    "url": "https://open.spotify.com/track/0heaNwFzMIb9TgGmiThxil",
-                    "preview_url": "https://p.scdn.co/mp3-preview/2f8864af5c58f1d228776917e7e8045651577383?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "Foam",
+                    "id": "4lfuRRTLD4UFkSVVArVVaK",
+                    "url": "https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK",
+                    "preview_url": "https://p.scdn.co/mp3-preview/3578a130380130d4999461195c5d93e61e28146d?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "David Shaw",
-                            "url": "https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe"
+                            "name": "Royel Otis",
+                            "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
                         }
                     ],
-                    "popularity": 32
+                    "popularity": 60
                 },
                 {
-                    "name": "The Place",
-                    "id": "1zOaq42kNdNnSOj9O1WA38",
-                    "url": "https://open.spotify.com/track/1zOaq42kNdNnSOj9O1WA38",
-                    "preview_url": "https://p.scdn.co/mp3-preview/500c01049c6bec82726ccec91c9e65dbdbb38753?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "Claw Foot",
+                    "id": "25Ydf3tBonBtvs3NhwYop7",
+                    "url": "https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7",
+                    "preview_url": "https://p.scdn.co/mp3-preview/5880414feac1171772241814270f0438249c9a2d?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "David Shaw",
-                            "url": "https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe"
+                            "name": "Royel Otis",
+                            "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
                         }
                     ],
-                    "popularity": 30
+                    "popularity": 58
                 },
                 {
-                    "name": "Alabama",
-                    "id": "2rKua1KKZFkvNfuVPfzZVr",
-                    "url": "https://open.spotify.com/track/2rKua1KKZFkvNfuVPfzZVr",
-                    "preview_url": "https://p.scdn.co/mp3-preview/f3c06bace79440bdcf0b4b8bcf00fcf80d5ba61c?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "Motels",
+                    "id": "1V888fh2JLVzMElr1pEz6Z",
+                    "url": "https://open.spotify.com/track/1V888fh2JLVzMElr1pEz6Z",
+                    "preview_url": "https://p.scdn.co/mp3-preview/6d3f3399fdfd51d743582b4fcc86808c911c56d0?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "David Shaw",
-                            "url": "https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe"
+                            "name": "Royel Otis",
+                            "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
                         }
                     ],
-                    "popularity": 28
+                    "popularity": 58
                 },
                 {
-                    "name": "I'll Be Your Man",
-                    "id": "08xfQztp1FPQTY49nE6eAZ",
-                    "url": "https://open.spotify.com/track/08xfQztp1FPQTY49nE6eAZ",
-                    "preview_url": "https://p.scdn.co/mp3-preview/068e0be17b0e942f03041f63b22563dfc579cae9?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "Heading For The Door",
+                    "id": "12KqF1lYRkDVb0cjNaL3Wh",
+                    "url": "https://open.spotify.com/track/12KqF1lYRkDVb0cjNaL3Wh",
+                    "preview_url": "https://p.scdn.co/mp3-preview/0a7ef5963bbb994ed66e039bbcd4abdf0a21a463?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "David Shaw",
-                            "url": "https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe"
+                            "name": "Royel Otis",
+                            "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
                         }
                     ],
-                    "popularity": 27
+                    "popularity": 53
                 },
                 {
-                    "name": "Something to This Feeling",
-                    "id": "2Sc7QlNEJ5yyXWQ1H0cgQb",
-                    "url": "https://open.spotify.com/track/2Sc7QlNEJ5yyXWQ1H0cgQb",
-                    "preview_url": "https://p.scdn.co/mp3-preview/0de20cb529cfb74f9446d674af8a737f160328fb?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "Adored",
+                    "id": "1J8Gz6rDoKF8xYbcwSgjpe",
+                    "url": "https://open.spotify.com/track/1J8Gz6rDoKF8xYbcwSgjpe",
+                    "preview_url": "https://p.scdn.co/mp3-preview/c1081391ec4ef9f5adc0a36a06ad647ad126ae72?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "David Shaw",
-                            "url": "https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe"
+                            "name": "Royel Otis",
+                            "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
                         }
                     ],
-                    "popularity": 26
+                    "popularity": 56
                 }
             ]
         }
@@ -8417,147 +8378,180 @@
             "weekend_two": false
         },
         "spotify": {
-            "name": "Catfish and the Bottlemen",
-            "id": "2xaAOVImG2O6lURwqperlD",
-            "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD",
+            "name": "Connor Price",
+            "id": "5zixe6AbgXPqt4c1uSl94L",
+            "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L",
             "genres": [
-                "modern alternative rock",
-                "modern rock",
-                "stomp pop",
-                "welsh rock"
+                "singer-songwriter pop"
             ],
-            "followers": 1065877,
-            "popularity": 61,
+            "followers": 1307931,
+            "popularity": 71,
             "top_tracks": [
                 {
-                    "name": "Kathleen",
-                    "id": "1MHYAqWWdDRePmnqORynrq",
-                    "url": "https://open.spotify.com/track/1MHYAqWWdDRePmnqORynrq",
-                    "preview_url": null,
+                    "name": "UP!",
+                    "id": "50utqknCBo0N3QAQbXIPKV",
+                    "url": "https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV",
+                    "preview_url": "https://p.scdn.co/mp3-preview/3769f847b510bb56b3c80692ab9b49b985fbcbc3?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "Catfish and the Bottlemen",
-                            "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+                            "name": "Forrest Frank",
+                            "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+                        },
+                        {
+                            "name": "Connor Price",
+                            "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+                        }
+                    ],
+                    "popularity": 77
+                },
+                {
+                    "name": "Spinnin",
+                    "id": "4r0kug4vaNx3d8qyDLhQes",
+                    "url": "https://open.spotify.com/track/4r0kug4vaNx3d8qyDLhQes",
+                    "preview_url": "https://p.scdn.co/mp3-preview/d6fb3774c68e3cc098afc95a081e54549bc58736?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "Connor Price",
+                            "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+                        },
+                        {
+                            "name": "Bens",
+                            "url": "https://open.spotify.com/artist/0tAl0sGxLq4qkokhuFMLC7"
+                        }
+                    ],
+                    "popularity": 70
+                },
+                {
+                    "name": "Trendsetter",
+                    "id": "38dshpsYpjnzQBUqzsrAcP",
+                    "url": "https://open.spotify.com/track/38dshpsYpjnzQBUqzsrAcP",
+                    "preview_url": "https://p.scdn.co/mp3-preview/4714a343abb61f0b5d02a2721a646965af4abdab?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "Connor Price",
+                            "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+                        },
+                        {
+                            "name": "Haviah Mighty",
+                            "url": "https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u"
+                        }
+                    ],
+                    "popularity": 64
+                },
+                {
+                    "name": "Violet",
+                    "id": "7IezwtVIJIPC36LpKMR9d7",
+                    "url": "https://open.spotify.com/track/7IezwtVIJIPC36LpKMR9d7",
+                    "preview_url": "https://p.scdn.co/mp3-preview/419417440b84f3984e2aa6196b4cdbf4287ed1e9?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "Connor Price",
+                            "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+                        },
+                        {
+                            "name": "Killa",
+                            "url": "https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd"
                         }
                     ],
                     "popularity": 68
                 },
                 {
-                    "name": "Cocoon",
-                    "id": "1B241LRKmK6qDDTZfUajmm",
-                    "url": "https://open.spotify.com/track/1B241LRKmK6qDDTZfUajmm",
-                    "preview_url": null,
+                    "name": "SPLAT",
+                    "id": "71rw9MB77BR8LHMFZK8gKV",
+                    "url": "https://open.spotify.com/track/71rw9MB77BR8LHMFZK8gKV",
+                    "preview_url": "https://p.scdn.co/mp3-preview/7238a84827909e286d4425b5a85a12bc519967f5?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "Catfish and the Bottlemen",
-                            "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+                            "name": "Connor Price",
+                            "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+                        }
+                    ],
+                    "popularity": 70
+                },
+                {
+                    "name": "Gasoline",
+                    "id": "2ngNeWCODoaj7RdwQAJDna",
+                    "url": "https://open.spotify.com/track/2ngNeWCODoaj7RdwQAJDna",
+                    "preview_url": "https://p.scdn.co/mp3-preview/66f52f2e60cfe384276fc55973b26f9dcdf5c51e?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "Nic D",
+                            "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+                        },
+                        {
+                            "name": "Connor Price",
+                            "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
                         }
                     ],
                     "popularity": 67
                 },
                 {
-                    "name": "7",
-                    "id": "5ykbOijJEfRhuo2Td1m0Qd",
-                    "url": "https://open.spotify.com/track/5ykbOijJEfRhuo2Td1m0Qd",
-                    "preview_url": null,
+                    "name": "Still Hot",
+                    "id": "5PspcXQtSiTDRPa8V5PHYf",
+                    "url": "https://open.spotify.com/track/5PspcXQtSiTDRPa8V5PHYf",
+                    "preview_url": "https://p.scdn.co/mp3-preview/f0ebdc07d9f6cb1e98c5fafdbb5ca353e6e7f5a7?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "Catfish and the Bottlemen",
-                            "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+                            "name": "Nic D",
+                            "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+                        },
+                        {
+                            "name": "Connor Price",
+                            "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+                        }
+                    ],
+                    "popularity": 68
+                },
+                {
+                    "name": "Million Cash",
+                    "id": "6Cds0aUGW0olm8E5kxSZ5J",
+                    "url": "https://open.spotify.com/track/6Cds0aUGW0olm8E5kxSZ5J",
+                    "preview_url": "https://p.scdn.co/mp3-preview/a520ca903b170b1bdc8155fbd0fc101c6f914f4e?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "Connor Price",
+                            "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+                        },
+                        {
+                            "name": "Armani White",
+                            "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
                         }
                     ],
                     "popularity": 66
                 },
                 {
-                    "name": "Longshot",
-                    "id": "2VcS3oKcOPkubN9LVzZ96l",
-                    "url": "https://open.spotify.com/track/2VcS3oKcOPkubN9LVzZ96l",
-                    "preview_url": null,
+                    "name": "Bankroll",
+                    "id": "6s76TusfjCKQLT5jLrMQQM",
+                    "url": "https://open.spotify.com/track/6s76TusfjCKQLT5jLrMQQM",
+                    "preview_url": "https://p.scdn.co/mp3-preview/9df4865dac9b20a2420780de6055ac8269864489?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "Catfish and the Bottlemen",
-                            "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+                            "name": "Nic D",
+                            "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+                        },
+                        {
+                            "name": "Connor Price",
+                            "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
                         }
                     ],
-                    "popularity": 62
+                    "popularity": 65
                 },
                 {
-                    "name": "Showtime",
-                    "id": "0YLhxYUv69go9H8iirbSWO",
-                    "url": "https://open.spotify.com/track/0YLhxYUv69go9H8iirbSWO",
-                    "preview_url": null,
+                    "name": "Drop",
+                    "id": "5HrBwBW9Teiys6bYlsOZpm",
+                    "url": "https://open.spotify.com/track/5HrBwBW9Teiys6bYlsOZpm",
+                    "preview_url": "https://p.scdn.co/mp3-preview/1fd5079743d1ca4517fb8f7476630f1860cf9b3f?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "Catfish and the Bottlemen",
-                            "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-                        }
-                    ],
-                    "popularity": 62
-                },
-                {
-                    "name": "Homesick",
-                    "id": "7lnXzMcgaK7CnzaQ7wj6k0",
-                    "url": "https://open.spotify.com/track/7lnXzMcgaK7CnzaQ7wj6k0",
-                    "preview_url": null,
-                    "artists": [
+                            "name": "Connor Price",
+                            "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+                        },
                         {
-                            "name": "Catfish and the Bottlemen",
-                            "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+                            "name": "Zensery",
+                            "url": "https://open.spotify.com/artist/5B5A66ePBh1rHxaiFwuQIf"
                         }
                     ],
-                    "popularity": 61
-                },
-                {
-                    "name": "Pacifier",
-                    "id": "1rcu88dzWE5GyqtpuWvd0C",
-                    "url": "https://open.spotify.com/track/1rcu88dzWE5GyqtpuWvd0C",
-                    "preview_url": null,
-                    "artists": [
-                        {
-                            "name": "Catfish and the Bottlemen",
-                            "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-                        }
-                    ],
-                    "popularity": 60
-                },
-                {
-                    "name": "Fallout",
-                    "id": "2PAeLLcnw42x5ZszOfFz50",
-                    "url": "https://open.spotify.com/track/2PAeLLcnw42x5ZszOfFz50",
-                    "preview_url": null,
-                    "artists": [
-                        {
-                            "name": "Catfish and the Bottlemen",
-                            "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-                        }
-                    ],
-                    "popularity": 58
-                },
-                {
-                    "name": "Hourglass",
-                    "id": "4hEhOvEz9tulJQXZ7hiqkz",
-                    "url": "https://open.spotify.com/track/4hEhOvEz9tulJQXZ7hiqkz",
-                    "preview_url": null,
-                    "artists": [
-                        {
-                            "name": "Catfish and the Bottlemen",
-                            "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-                        }
-                    ],
-                    "popularity": 57
-                },
-                {
-                    "name": "Soundcheck",
-                    "id": "60W7Co2AoP5VVG5Gwu6p5P",
-                    "url": "https://open.spotify.com/track/60W7Co2AoP5VVG5Gwu6p5P",
-                    "preview_url": null,
-                    "artists": [
-                        {
-                            "name": "Catfish and the Bottlemen",
-                            "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-                        }
-                    ],
-                    "popularity": 56
+                    "popularity": 63
                 }
             ]
         }
@@ -8570,162 +8564,146 @@
             "weekend_two": true
         },
         "spotify": {
-            "name": "Blu DeTiger",
-            "id": "5NyCIBCeU080ynEj33S4hC",
-            "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC",
+            "name": "Malcolm Todd",
+            "id": "7eKkW1zo5uzW8kUntiiBvz",
+            "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz",
             "genres": [],
-            "followers": 103213,
-            "popularity": 45,
+            "followers": 214845,
+            "popularity": 58,
             "top_tracks": [
                 {
-                    "name": "Cotton Candy Lemonade",
-                    "id": "1RfPf0W4OlIWROTV5Afs3S",
-                    "url": "https://open.spotify.com/track/1RfPf0W4OlIWROTV5Afs3S",
-                    "preview_url": "https://p.scdn.co/mp3-preview/ff6da9410d80263c5fa117064e34c4d46f0aae70?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "Roommates",
+                    "id": "5vPUv0xziXbV4lnWeVNXNq",
+                    "url": "https://open.spotify.com/track/5vPUv0xziXbV4lnWeVNXNq",
+                    "preview_url": "https://p.scdn.co/mp3-preview/b00e268f2f486fa7dd343511765cec6eae7cf1f6?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "Blu DeTiger",
-                            "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+                            "name": "Malcolm Todd",
+                            "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
                         }
                     ],
-                    "popularity": 52
+                    "popularity": 63
                 },
                 {
-                    "name": "Blutooth",
-                    "id": "4mhHWZBaSyLeTeXrLp1xuK",
-                    "url": "https://open.spotify.com/track/4mhHWZBaSyLeTeXrLp1xuK",
-                    "preview_url": null,
+                    "name": "Sweet Boy",
+                    "id": "59c2xv2kMzYM6HR9oY6BIa",
+                    "url": "https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa",
+                    "preview_url": "https://p.scdn.co/mp3-preview/2e437688c35c5997b85514a0fad71bc2fb7ebea9?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "Blu DeTiger",
-                            "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+                            "name": "Malcolm Todd",
+                            "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+                        }
+                    ],
+                    "popularity": 56
+                },
+                {
+                    "name": "4Me 4Me",
+                    "id": "7uEFboafVLvROPYTqdMi0n",
+                    "url": "https://open.spotify.com/track/7uEFboafVLvROPYTqdMi0n",
+                    "preview_url": "https://p.scdn.co/mp3-preview/2c83e3b0a14c11c4562402abc4ae1a6eddd3bc16?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "Malcolm Todd",
+                            "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+                        }
+                    ],
+                    "popularity": 53
+                },
+                {
+                    "name": "Art House",
+                    "id": "5YBxGJYKJ7Se2Uq7S0pVOL",
+                    "url": "https://open.spotify.com/track/5YBxGJYKJ7Se2Uq7S0pVOL",
+                    "preview_url": "https://p.scdn.co/mp3-preview/6ac530ff344836581e44642e6206eccffa9b1693?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "Malcolm Todd",
+                            "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+                        }
+                    ],
+                    "popularity": 55
+                },
+                {
+                    "name": "New Friends (feat. Eem Triplin)",
+                    "id": "6dc1efEhnYMzVwz05VY4ZP",
+                    "url": "https://open.spotify.com/track/6dc1efEhnYMzVwz05VY4ZP",
+                    "preview_url": "https://p.scdn.co/mp3-preview/553894cc028507f4a71c58f8675bd75f65f46507?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "Malcolm Todd",
+                            "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
                         },
                         {
-                            "name": "Chromeo",
-                            "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+                            "name": "Eem Triplin",
+                            "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
+                        }
+                    ],
+                    "popularity": 54
+                },
+                {
+                    "name": "Mr. Incorrect",
+                    "id": "1JOUKim8ZlHaM5N43sQ9dq",
+                    "url": "https://open.spotify.com/track/1JOUKim8ZlHaM5N43sQ9dq",
+                    "preview_url": "https://p.scdn.co/mp3-preview/b4e35c08623821c8d2d714f556bc98df4a0b6391?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "Malcolm Todd",
+                            "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
                         }
                     ],
                     "popularity": 51
                 },
                 {
-                    "name": "Disappearing (feat. Magdalena Bay)",
-                    "id": "0nxPeolI7FlljJ3SnNYDmj",
-                    "url": "https://open.spotify.com/track/0nxPeolI7FlljJ3SnNYDmj",
-                    "preview_url": null,
+                    "name": "Earrings",
+                    "id": "0eAuGrXyGFYwur9ARUe7LJ",
+                    "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ",
+                    "preview_url": "https://p.scdn.co/mp3-preview/a4d8dd130ef4bb5da2019049bd18f2e80776f509?cid=9ea8e426cd5f4423a935efc976bc065b",
                     "artists": [
                         {
-                            "name": "Blu DeTiger",
-                            "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
-                        },
+                            "name": "Malcolm Todd",
+                            "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+                        }
+                    ],
+                    "popularity": 59
+                },
+                {
+                    "name": "Out of Bounds",
+                    "id": "2K7zaTAcTUXJseGQiIje6S",
+                    "url": "https://open.spotify.com/track/2K7zaTAcTUXJseGQiIje6S",
+                    "preview_url": "https://p.scdn.co/mp3-preview/33550181f2a906b6c3d4ed3fb7862c6a680318a7?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
                         {
-                            "name": "Magdalena Bay",
-                            "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+                            "name": "Malcolm Todd",
+                            "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+                        }
+                    ],
+                    "popularity": 58
+                },
+                {
+                    "name": "Hot in NY",
+                    "id": "4RYRUDApJsPKTJIvBUz6a5",
+                    "url": "https://open.spotify.com/track/4RYRUDApJsPKTJIvBUz6a5",
+                    "preview_url": "https://p.scdn.co/mp3-preview/5bd4d1faffda9ed1313a3c982938e500913f6ae8?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "Malcolm Todd",
+                            "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+                        }
+                    ],
+                    "popularity": 51
+                },
+                {
+                    "name": "Sore Throat",
+                    "id": "3gDpuaQWWciAyttVI0NXhD",
+                    "url": "https://open.spotify.com/track/3gDpuaQWWciAyttVI0NXhD",
+                    "preview_url": "https://p.scdn.co/mp3-preview/62cec49d3d9d27fba8fec22e9e9b41c5ef8f875f?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "artists": [
+                        {
+                            "name": "Malcolm Todd",
+                            "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
                         }
                     ],
                     "popularity": 49
-                },
-                {
-                    "name": "Figure It Out",
-                    "id": "5G5qyRHlLmZgy915TBTCkB",
-                    "url": "https://open.spotify.com/track/5G5qyRHlLmZgy915TBTCkB",
-                    "preview_url": "https://p.scdn.co/mp3-preview/86b40299b5ebe987daf9376731978561808c1e0c?cid=9ea8e426cd5f4423a935efc976bc065b",
-                    "artists": [
-                        {
-                            "name": "Blu DeTiger",
-                            "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
-                        }
-                    ],
-                    "popularity": 48
-                },
-                {
-                    "name": "Dangerous Game",
-                    "id": "4JxNOssbmVimAyBNN6pvHV",
-                    "url": "https://open.spotify.com/track/4JxNOssbmVimAyBNN6pvHV",
-                    "preview_url": null,
-                    "artists": [
-                        {
-                            "name": "Blu DeTiger",
-                            "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
-                        }
-                    ],
-                    "popularity": 38
-                },
-                {
-                    "name": "Crash Course (feat. Biig Piig)",
-                    "id": "75xEZnNXRr4G2kZ15fREXo",
-                    "url": "https://open.spotify.com/track/75xEZnNXRr4G2kZ15fREXo",
-                    "preview_url": null,
-                    "artists": [
-                        {
-                            "name": "Blu DeTiger",
-                            "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
-                        },
-                        {
-                            "name": "Biig Piig",
-                            "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-                        }
-                    ],
-                    "popularity": 44
-                },
-                {
-                    "name": "Vintage - Flight Facilities Remix",
-                    "id": "2VNR4FAD2u60AeJDXL8a9x",
-                    "url": "https://open.spotify.com/track/2VNR4FAD2u60AeJDXL8a9x",
-                    "preview_url": "https://p.scdn.co/mp3-preview/7c99dcc9b822be0bb68216b70edb13edce8a7c73?cid=9ea8e426cd5f4423a935efc976bc065b",
-                    "artists": [
-                        {
-                            "name": "Blu DeTiger",
-                            "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
-                        },
-                        {
-                            "name": "Flight Facilities",
-                            "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
-                        }
-                    ],
-                    "popularity": 44
-                },
-                {
-                    "name": "Vintage",
-                    "id": "3k7Ih6fxF30qtvsgWPopvn",
-                    "url": "https://open.spotify.com/track/3k7Ih6fxF30qtvsgWPopvn",
-                    "preview_url": "https://p.scdn.co/mp3-preview/318a413f089fed12f0aee3641de1a9d8ae4f915b?cid=9ea8e426cd5f4423a935efc976bc065b",
-                    "artists": [
-                        {
-                            "name": "Blu DeTiger",
-                            "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
-                        }
-                    ],
-                    "popularity": 39
-                },
-                {
-                    "name": "Cotton Candy Lemonade (Anna Lunoe Remix)",
-                    "id": "2wmkq5eX7OJIkXkT9Qy673",
-                    "url": "https://open.spotify.com/track/2wmkq5eX7OJIkXkT9Qy673",
-                    "preview_url": "https://p.scdn.co/mp3-preview/7f969a13f55f3a6db69e4c739299dd0035997d56?cid=9ea8e426cd5f4423a935efc976bc065b",
-                    "artists": [
-                        {
-                            "name": "Anna Lunoe",
-                            "url": "https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D"
-                        },
-                        {
-                            "name": "Blu DeTiger",
-                            "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
-                        }
-                    ],
-                    "popularity": 40
-                },
-                {
-                    "name": "Kiss",
-                    "id": "6kJO2cwqudWES9ufMx312O",
-                    "url": "https://open.spotify.com/track/6kJO2cwqudWES9ufMx312O",
-                    "preview_url": null,
-                    "artists": [
-                        {
-                            "name": "Blu DeTiger",
-                            "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
-                        }
-                    ],
-                    "popularity": 33
                 }
             ]
         }
@@ -12375,142 +12353,148 @@
             "weekend_two": true
         },
         "spotify": {
-            "name": "Valencia Grace",
-            "id": "5cb5ljWIIrvUxokdf2vl6A",
-            "url": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A",
-            "genres": [],
-            "followers": 12678,
-            "popularity": 29,
+            "name": "Lola Young",
+            "id": "67FB4n52MgexGQIG8s0yUH",
+            "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH",
+            "genres": [
+                "uk pop"
+            ],
+            "followers": 191775,
+            "popularity": 51,
             "top_tracks": [
                 {
-                    "name": "Skin",
-                    "id": "3Jeo5LzCcMBtdFlp1FqpsN",
-                    "url": "https://open.spotify.com/track/3Jeo5LzCcMBtdFlp1FqpsN",
-                    "preview_url": "https://p.scdn.co/mp3-preview/fd4c6338c8dab41729f414a0181f08dde88209eb?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "Conceited",
+                    "id": "2Iv1yhxAH7m9SpohnJMs9B",
+                    "url": "https://open.spotify.com/track/2Iv1yhxAH7m9SpohnJMs9B",
+                    "preview_url": null,
                     "artists": [
                         {
-                            "name": "Valencia Grace",
-                            "url": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A"
+                            "name": "Lola Young",
+                            "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
                         }
                     ],
-                    "popularity": 42
+                    "popularity": 63
                 },
                 {
-                    "name": "There I Said It",
-                    "id": "2YU14wLn68Wgw2Xhl43G1N",
-                    "url": "https://open.spotify.com/track/2YU14wLn68Wgw2Xhl43G1N",
-                    "preview_url": "https://p.scdn.co/mp3-preview/32da2480486b71d719f7d8c92d68d8a48645cd58?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "Don't Hate Me",
+                    "id": "3xHiCTehVvsc7w26DuEdYw",
+                    "url": "https://open.spotify.com/track/3xHiCTehVvsc7w26DuEdYw",
+                    "preview_url": null,
                     "artists": [
                         {
-                            "name": "Valencia Grace",
-                            "url": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A"
+                            "name": "Lola Young",
+                            "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
                         }
                     ],
-                    "popularity": 38
+                    "popularity": 56
                 },
                 {
-                    "name": "Opera",
-                    "id": "25qioGPeNaC1X9FiVPIoJ0",
-                    "url": "https://open.spotify.com/track/25qioGPeNaC1X9FiVPIoJ0",
-                    "preview_url": "https://p.scdn.co/mp3-preview/54010ee171b3df149bef0bc3ee5f24fbf021075e?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "Wish You Were Dead",
+                    "id": "6qFnjQ4ULgV9YU5ukUDdwE",
+                    "url": "https://open.spotify.com/track/6qFnjQ4ULgV9YU5ukUDdwE",
+                    "preview_url": null,
                     "artists": [
                         {
-                            "name": "Valencia Grace",
-                            "url": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A"
+                            "name": "Lola Young",
+                            "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
                         }
                     ],
-                    "popularity": 36
+                    "popularity": 56
                 },
                 {
-                    "name": "Roses",
-                    "id": "0k9KbFbpye6K8VPbA0HT7J",
-                    "url": "https://open.spotify.com/track/0k9KbFbpye6K8VPbA0HT7J",
-                    "preview_url": "https://p.scdn.co/mp3-preview/a2952b1d7d5cb5e9d12f4d55b73f00e20966954d?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "Big Brown Eyes",
+                    "id": "2eQotZtrNHzi38qge7CGXE",
+                    "url": "https://open.spotify.com/track/2eQotZtrNHzi38qge7CGXE",
+                    "preview_url": null,
                     "artists": [
                         {
-                            "name": "Valencia Grace",
-                            "url": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A"
+                            "name": "Lola Young",
+                            "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
                         }
                     ],
-                    "popularity": 27
+                    "popularity": 55
                 },
                 {
-                    "name": "Speechless",
-                    "id": "7IR6eTDsqLvKPv0gCf7baZ",
-                    "url": "https://open.spotify.com/track/7IR6eTDsqLvKPv0gCf7baZ",
-                    "preview_url": "https://p.scdn.co/mp3-preview/8244a791f94b88fb5230296684f337aac925013a?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "Fuck",
+                    "id": "1kFEvhWfwYP5Ct75HuETBv",
+                    "url": "https://open.spotify.com/track/1kFEvhWfwYP5Ct75HuETBv",
+                    "preview_url": null,
                     "artists": [
                         {
-                            "name": "Valencia Grace",
-                            "url": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A"
+                            "name": "Lola Young",
+                            "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
                         }
                     ],
-                    "popularity": 30
+                    "popularity": 52
                 },
                 {
-                    "name": "It Was You",
-                    "id": "4XlUA0Yt5IN4aXccRzIB6a",
-                    "url": "https://open.spotify.com/track/4XlUA0Yt5IN4aXccRzIB6a",
-                    "preview_url": "https://p.scdn.co/mp3-preview/21a392d8d3c61ed61d49ca8cadf701ef2acb2657?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "Intrusive Thoughts",
+                    "id": "26jaTb9LpAxgw9AgiHNzIo",
+                    "url": "https://open.spotify.com/track/26jaTb9LpAxgw9AgiHNzIo",
+                    "preview_url": null,
                     "artists": [
                         {
-                            "name": "Valencia Grace",
-                            "url": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A"
+                            "name": "Lola Young",
+                            "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
                         }
                     ],
-                    "popularity": 28
+                    "popularity": 47
                 },
                 {
-                    "name": "Final Dance",
-                    "id": "337LESjvy4TiVUNgB4Ynjx",
-                    "url": "https://open.spotify.com/track/337LESjvy4TiVUNgB4Ynjx",
-                    "preview_url": "https://p.scdn.co/mp3-preview/90258b70bff0dc69a7d18d328bc3df5a17088ce1?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "What Is It About Me",
+                    "id": "183XXqSJsk4kbnElYNorzD",
+                    "url": "https://open.spotify.com/track/183XXqSJsk4kbnElYNorzD",
+                    "preview_url": null,
                     "artists": [
                         {
-                            "name": "Valencia Grace",
-                            "url": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A"
+                            "name": "Lola Young",
+                            "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
                         }
                     ],
-                    "popularity": 26
+                    "popularity": 47
                 },
                 {
-                    "name": "Goodbye",
-                    "id": "3CBcJQ5FLXZyuqM8BUbsgS",
-                    "url": "https://open.spotify.com/track/3CBcJQ5FLXZyuqM8BUbsgS",
-                    "preview_url": "https://p.scdn.co/mp3-preview/ec357569a4056c535ffa7e8ed6fa9bb7707e9c40?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "Outta My Mind pt. 2 (ft. Lola Young)",
+                    "id": "1NWaYdISmPkmGaWCIEz6kb",
+                    "url": "https://open.spotify.com/track/1NWaYdISmPkmGaWCIEz6kb",
+                    "preview_url": null,
                     "artists": [
                         {
-                            "name": "Valencia Grace",
-                            "url": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A"
+                            "name": "chlothegod",
+                            "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
+                        },
+                        {
+                            "name": "Lola Young",
+                            "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
                         }
                     ],
-                    "popularity": 24
+                    "popularity": 46
                 },
                 {
-                    "name": "Estranged",
-                    "id": "5ROQgpbu3zDAiQz6U218mL",
-                    "url": "https://open.spotify.com/track/5ROQgpbu3zDAiQz6U218mL",
-                    "preview_url": "https://p.scdn.co/mp3-preview/4ce402e5fcfb257785acfc34d0f0edf32c23695c?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "FAKE",
+                    "id": "3eImUEjfyVt2YtkyU6PNhB",
+                    "url": "https://open.spotify.com/track/3eImUEjfyVt2YtkyU6PNhB",
+                    "preview_url": null,
                     "artists": [
                         {
-                            "name": "Valencia Grace",
-                            "url": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A"
+                            "name": "Lola Young",
+                            "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
                         }
                     ],
-                    "popularity": 22
+                    "popularity": 46
                 },
                 {
-                    "name": "What A Shame",
-                    "id": "3zPTFGyJnAnCHDEyk5zkww",
-                    "url": "https://open.spotify.com/track/3zPTFGyJnAnCHDEyk5zkww",
-                    "preview_url": "https://p.scdn.co/mp3-preview/4d876710d33ed5d4b61925f07b7bb694068b7639?cid=9ea8e426cd5f4423a935efc976bc065b",
+                    "name": "Money",
+                    "id": "0bdGIaNeMYQ5lBnsGukAcp",
+                    "url": "https://open.spotify.com/track/0bdGIaNeMYQ5lBnsGukAcp",
+                    "preview_url": null,
                     "artists": [
                         {
-                            "name": "Valencia Grace",
-                            "url": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A"
+                            "name": "Lola Young",
+                            "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
                         }
                     ],
-                    "popularity": 21
+                    "popularity": 45
                 }
             ]
         }
@@ -13955,161 +13939,7 @@
     },
     {
         "lineup": {
-            "artist": "RICHY MITCH",
-            "headliner": false,
-            "weekend_one": true,
-            "weekend_two": true
-        },
-        "spotify": {
-            "name": "Richy Mitch & The Coal Miners",
-            "id": "4qU7IJSReZnsLy5907Mtau",
-            "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau",
-            "genres": [
-                "modern folk rock"
-            ],
-            "followers": 160501,
-            "popularity": 70,
-            "top_tracks": [
-                {
-                    "name": "Evergreen",
-                    "id": "6me7F0aaZjwDo6RJ5MrfBD",
-                    "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD",
-                    "preview_url": "https://p.scdn.co/mp3-preview/fca7555fba8261b7ccc0aac1854a86033a12823b?cid=9ea8e426cd5f4423a935efc976bc065b",
-                    "artists": [
-                        {
-                            "name": "Richy Mitch & The Coal Miners",
-                            "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
-                        }
-                    ],
-                    "popularity": 89
-                },
-                {
-                    "name": "Lake Missoula",
-                    "id": "4x1dWc1GgAfC04GcTlllax",
-                    "url": "https://open.spotify.com/track/4x1dWc1GgAfC04GcTlllax",
-                    "preview_url": "https://p.scdn.co/mp3-preview/6b1d00bd4605d46ac324ca68cbcb499d667c6b0c?cid=9ea8e426cd5f4423a935efc976bc065b",
-                    "artists": [
-                        {
-                            "name": "Richy Mitch & The Coal Miners",
-                            "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
-                        }
-                    ],
-                    "popularity": 74
-                },
-                {
-                    "name": "Sage",
-                    "id": "62PCV9ANdpPd9FhWgNljeW",
-                    "url": "https://open.spotify.com/track/62PCV9ANdpPd9FhWgNljeW",
-                    "preview_url": "https://p.scdn.co/mp3-preview/1bbfe330b5112380426826fe473d7419a73769f6?cid=9ea8e426cd5f4423a935efc976bc065b",
-                    "artists": [
-                        {
-                            "name": "Richy Mitch & The Coal Miners",
-                            "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
-                        }
-                    ],
-                    "popularity": 59
-                },
-                {
-                    "name": "Subliming",
-                    "id": "5RZnVgD7WdHPzfaWJSKdQa",
-                    "url": "https://open.spotify.com/track/5RZnVgD7WdHPzfaWJSKdQa",
-                    "preview_url": "https://p.scdn.co/mp3-preview/b98f3295b3afb03c2718275350e665a59b602572?cid=9ea8e426cd5f4423a935efc976bc065b",
-                    "artists": [
-                        {
-                            "name": "Richy Mitch & The Coal Miners",
-                            "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
-                        }
-                    ],
-                    "popularity": 59
-                },
-                {
-                    "name": "WET SOCKS",
-                    "id": "1juFn2eqd74iTPl0RyYRiX",
-                    "url": "https://open.spotify.com/track/1juFn2eqd74iTPl0RyYRiX",
-                    "preview_url": "https://p.scdn.co/mp3-preview/ba04de2b5d27e04b688a5bc47cd47875abbd41e0?cid=9ea8e426cd5f4423a935efc976bc065b",
-                    "artists": [
-                        {
-                            "name": "Richy Mitch & The Coal Miners",
-                            "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
-                        }
-                    ],
-                    "popularity": 59
-                },
-                {
-                    "name": "Northstar",
-                    "id": "2RMgDzKU002S6IcwWwG9i1",
-                    "url": "https://open.spotify.com/track/2RMgDzKU002S6IcwWwG9i1",
-                    "preview_url": "https://p.scdn.co/mp3-preview/c39595bc3299ee3ca3bcbf998448520c8adf55a9?cid=9ea8e426cd5f4423a935efc976bc065b",
-                    "artists": [
-                        {
-                            "name": "Richy Mitch & The Coal Miners",
-                            "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
-                        }
-                    ],
-                    "popularity": 58
-                },
-                {
-                    "name": "Signal Sender",
-                    "id": "1XHTJ2n4ajw9dDzuPGY4Rm",
-                    "url": "https://open.spotify.com/track/1XHTJ2n4ajw9dDzuPGY4Rm",
-                    "preview_url": "https://p.scdn.co/mp3-preview/f297de50496d044183e114d567d0a139310d6834?cid=9ea8e426cd5f4423a935efc976bc065b",
-                    "artists": [
-                        {
-                            "name": "Richy Mitch & The Coal Miners",
-                            "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
-                        }
-                    ],
-                    "popularity": 56
-                },
-                {
-                    "name": "Sierra Vista",
-                    "id": "14P8LhjbdysoOL12T5gAOe",
-                    "url": "https://open.spotify.com/track/14P8LhjbdysoOL12T5gAOe",
-                    "preview_url": "https://p.scdn.co/mp3-preview/a2e380561028e2b4972d45cc4310ddd33e55dcd8?cid=9ea8e426cd5f4423a935efc976bc065b",
-                    "artists": [
-                        {
-                            "name": "Richy Mitch & The Coal Miners",
-                            "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
-                        }
-                    ],
-                    "popularity": 56
-                },
-                {
-                    "name": "Lucerne",
-                    "id": "5FQAVPtRADIWBGZUu4K2dk",
-                    "url": "https://open.spotify.com/track/5FQAVPtRADIWBGZUu4K2dk",
-                    "preview_url": "https://p.scdn.co/mp3-preview/880933f6b61ea8df213b09b14c327289d100bc10?cid=9ea8e426cd5f4423a935efc976bc065b",
-                    "artists": [
-                        {
-                            "name": "Richy Mitch & The Coal Miners",
-                            "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
-                        }
-                    ],
-                    "popularity": 55
-                },
-                {
-                    "name": "Lake Missoula (feat. Mt. Joy)",
-                    "id": "1sfDyeBfzNeABw4afi4e5A",
-                    "url": "https://open.spotify.com/track/1sfDyeBfzNeABw4afi4e5A",
-                    "preview_url": "https://p.scdn.co/mp3-preview/d23c54a54176f048f5d24779662649c139f7a07d?cid=9ea8e426cd5f4423a935efc976bc065b",
-                    "artists": [
-                        {
-                            "name": "Richy Mitch & The Coal Miners",
-                            "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
-                        },
-                        {
-                            "name": "Mt. Joy",
-                            "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-                        }
-                    ],
-                    "popularity": 54
-                }
-            ]
-        }
-    },
-    {
-        "lineup": {
-            "artist": "THE COAL MINERS",
+            "artist": "RICHY MITCH & THE COAL MINERS",
             "headliner": false,
             "weekend_one": true,
             "weekend_two": true
@@ -14413,7 +14243,7 @@
     },
     {
         "lineup": {
-            "artist": "BILLY ALLEN",
+            "artist": "BILLY ALLEN + THE POLLIES",
             "headliner": false,
             "weekend_one": true,
             "weekend_two": true
@@ -14477,157 +14307,6 @@
                         }
                     ],
                     "popularity": 16
-                }
-            ]
-        }
-    },
-    {
-        "lineup": {
-            "artist": "THE POLLIES",
-            "headliner": false,
-            "weekend_one": false,
-            "weekend_two": true
-        },
-        "spotify": {
-            "name": "The Pollies",
-            "id": "598trStGjYePaRmeDHip8u",
-            "url": "https://open.spotify.com/artist/598trStGjYePaRmeDHip8u",
-            "genres": [
-                "deep new americana",
-                "southern americana"
-            ],
-            "followers": 1626,
-            "popularity": 4,
-            "top_tracks": [
-                {
-                    "name": "Unknown Legend",
-                    "id": "2drkyzfQJG54m5KwyBHB5X",
-                    "url": "https://open.spotify.com/track/2drkyzfQJG54m5KwyBHB5X",
-                    "preview_url": "https://p.scdn.co/mp3-preview/343fcd50deb02f9b93816dae72677575d80045f0?cid=9ea8e426cd5f4423a935efc976bc065b",
-                    "artists": [
-                        {
-                            "name": "The Pollies",
-                            "url": "https://open.spotify.com/artist/598trStGjYePaRmeDHip8u"
-                        }
-                    ],
-                    "popularity": 16
-                },
-                {
-                    "name": "Jackson",
-                    "id": "4SkyqbgJSaXlPa7C8fXRYM",
-                    "url": "https://open.spotify.com/track/4SkyqbgJSaXlPa7C8fXRYM",
-                    "preview_url": "https://p.scdn.co/mp3-preview/f581b0151b65e1620ef5ff13e1282cfcd5f1eeae?cid=9ea8e426cd5f4423a935efc976bc065b",
-                    "artists": [
-                        {
-                            "name": "The Pollies",
-                            "url": "https://open.spotify.com/artist/598trStGjYePaRmeDHip8u"
-                        }
-                    ],
-                    "popularity": 7
-                },
-                {
-                    "name": "Ashes of Burned out Stars",
-                    "id": "3Bbrdo7Jkfc0V0EgEVlaZF",
-                    "url": "https://open.spotify.com/track/3Bbrdo7Jkfc0V0EgEVlaZF",
-                    "preview_url": "https://p.scdn.co/mp3-preview/4e6ed2cf73a5532b1881197f2f2ab43777051de7?cid=9ea8e426cd5f4423a935efc976bc065b",
-                    "artists": [
-                        {
-                            "name": "The Pollies",
-                            "url": "https://open.spotify.com/artist/598trStGjYePaRmeDHip8u"
-                        }
-                    ],
-                    "popularity": 3
-                },
-                {
-                    "name": "Hold On My Heart",
-                    "id": "5Ez049ogopuN5iwWtAVsV5",
-                    "url": "https://open.spotify.com/track/5Ez049ogopuN5iwWtAVsV5",
-                    "preview_url": "https://p.scdn.co/mp3-preview/7aff9c377bdee7f5ce6ad5f52dcedcb2d2cb8b07?cid=9ea8e426cd5f4423a935efc976bc065b",
-                    "artists": [
-                        {
-                            "name": "The Pollies",
-                            "url": "https://open.spotify.com/artist/598trStGjYePaRmeDHip8u"
-                        }
-                    ],
-                    "popularity": 2
-                },
-                {
-                    "name": "Lost",
-                    "id": "7Ct91a2CxVIz7da8jd7TRX",
-                    "url": "https://open.spotify.com/track/7Ct91a2CxVIz7da8jd7TRX",
-                    "preview_url": "https://p.scdn.co/mp3-preview/c56d293e487fbef88427135ec866a8d5c690d946?cid=9ea8e426cd5f4423a935efc976bc065b",
-                    "artists": [
-                        {
-                            "name": "The Pollies",
-                            "url": "https://open.spotify.com/artist/598trStGjYePaRmeDHip8u"
-                        }
-                    ],
-                    "popularity": 2
-                },
-                {
-                    "name": "Fell In Love",
-                    "id": "6i3FcrsoTZ2lXjDwPJ6AeE",
-                    "url": "https://open.spotify.com/track/6i3FcrsoTZ2lXjDwPJ6AeE",
-                    "preview_url": "https://p.scdn.co/mp3-preview/5118373301ea19591663fb3d93d365ee89dac37f?cid=9ea8e426cd5f4423a935efc976bc065b",
-                    "artists": [
-                        {
-                            "name": "The Pollies",
-                            "url": "https://open.spotify.com/artist/598trStGjYePaRmeDHip8u"
-                        }
-                    ],
-                    "popularity": 1
-                },
-                {
-                    "name": "She...",
-                    "id": "12ycrCgCghlftrEcGQRG5J",
-                    "url": "https://open.spotify.com/track/12ycrCgCghlftrEcGQRG5J",
-                    "preview_url": "https://p.scdn.co/mp3-preview/634cb1b47dbb8949feb7827556540855679043d6?cid=9ea8e426cd5f4423a935efc976bc065b",
-                    "artists": [
-                        {
-                            "name": "The Pollies",
-                            "url": "https://open.spotify.com/artist/598trStGjYePaRmeDHip8u"
-                        }
-                    ],
-                    "popularity": 1
-                },
-                {
-                    "name": "My Darling",
-                    "id": "41RfIJ5gNrf2rKVL9CARLh",
-                    "url": "https://open.spotify.com/track/41RfIJ5gNrf2rKVL9CARLh",
-                    "preview_url": "https://p.scdn.co/mp3-preview/86e16d5664ebd4024ebd81928e018d1b0af1632a?cid=9ea8e426cd5f4423a935efc976bc065b",
-                    "artists": [
-                        {
-                            "name": "The Pollies",
-                            "url": "https://open.spotify.com/artist/598trStGjYePaRmeDHip8u"
-                        }
-                    ],
-                    "popularity": 1
-                },
-                {
-                    "name": "Something New",
-                    "id": "1H3d5UZ1Bt8vyoEdTOSnAU",
-                    "url": "https://open.spotify.com/track/1H3d5UZ1Bt8vyoEdTOSnAU",
-                    "preview_url": "https://p.scdn.co/mp3-preview/0319ea19fd93291f4372c9d2d58906dae892d0b2?cid=9ea8e426cd5f4423a935efc976bc065b",
-                    "artists": [
-                        {
-                            "name": "The Pollies",
-                            "url": "https://open.spotify.com/artist/598trStGjYePaRmeDHip8u"
-                        }
-                    ],
-                    "popularity": 1
-                },
-                {
-                    "name": "Jackson",
-                    "id": "0gjxyFM5e2tiJAdNeMaKJE",
-                    "url": "https://open.spotify.com/track/0gjxyFM5e2tiJAdNeMaKJE",
-                    "preview_url": "https://p.scdn.co/mp3-preview/e9a8ce4e0db559e081258d402fd5558d08e3406d?cid=9ea8e426cd5f4423a935efc976bc065b",
-                    "artists": [
-                        {
-                            "name": "The Pollies",
-                            "url": "https://open.spotify.com/artist/598trStGjYePaRmeDHip8u"
-                        }
-                    ],
-                    "popularity": 1
                 }
             ]
         }
